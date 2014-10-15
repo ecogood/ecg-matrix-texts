@@ -1,0 +1,117 @@
+{
+
+  "shortcode": "A1",
+  "shortcodeSlug": "a1",
+  "points": 90,
+  "name": "Ethisches Beschaffungswesen",
+  "soleProprietorship": true,
+  "goals": {},
+  "impulsQuestions": {},
+  "table": {
+    "subindicators": [
+      {
+        "title": "Regionale, ökologische und soziale Aspekte/höherwertiger Alternativen werden … berücksichtigt",
+        "relevance": "high",
+        "position": "1",
+        "soleProprietorship": true,
+        "developmentTracks": [
+          {
+            "developmentDetails": [
+              {
+                "levels": ["beginner"],
+                "description": "… punktuell bei Produkten mit negativen sozialen und/oder ökologischen Auswirkungen"
+              },
+              {
+                "levels": ["advanced"],
+                "description": "… bei einigen wesentlichen P/D"
+              },
+              {
+                "levels": ["experienced"],
+                "description": "… bei einem Großteil an wesentlichen P/D …<br/><br/>+ im Vergleich sehr geringer Verbrauch bzw. klare Reduktion bei kritischen Stoffe ohne höherwertige Alternative (siehe FAQ)"
+              },
+              {
+                "levels": ["model"],
+                "description": "… allen wesentlichen,  zugekauften P/D …<br/><br/>+ innovative Lösungen zur Vermeidung kritischer Stoffe ohne höherwertige Alternative"
+              }
+            ]
+          }
+        ],
+        "keyFigures": [
+          "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">",
+          "<caption>Auflistung aller Ausgabenposten</caption>",
+          "<thead><tr>",
+          "<th scope=\"col\">In % vom Umsatz</th>",
+          "<th scope=\"col\">Abwicklung &uuml;ber folgenden Finanzdienstleister</th>",
+          "</tr></thead>",
+          "<tbody><tr>",
+          "<td>Ausgabenposten +&nbsp;% der Ausgaben</td>",
+          "<td>Erläuterung und (soziale, ökologische, regionale) Bewertung</td></tr><tr>",
+          "<td>&nbsp;</td>",
+          "<td>&nbsp;</td></tr></tbody></table>"
+        ]
+      },
+      {
+        "title": "Aktive Auseinandersetzung mit den Auswirkungen zugekaufter P/D und Prozesse zur Sicherstellung sowie Ausmaß und Form der Nachweisführung",
+        "relevance": "middle",
+        "position": "2",
+        "soleProprietorship": true,
+        "developmentTracks": [
+          {
+            "developmentDetails": [
+              {
+                "levels": ["beginner"],
+                "description": "Interne Auseinandersetzung durch aktives Einholen von Informationen zu der Thematik Integration sozialer und ökologischer Aspekte in das Vertragswesen (Code ofConduct/Ethik-Kodex)"
+              },
+              {
+                "levels": ["advanced"],
+                "description": "Internes Audit bei Risiken und wichtigsten Lieferanten<br/><br/>Schulungen (Seminare, Workshops, Zeitbudgets für ExpertInnengespräche) aller Mitarbeiter im Einkaufsprozess"
+              },
+              {
+                "levels": ["experienced"],
+                "description": "Regelmäßige Evaluierung sozialer/ökologischer Auswirkungen und Alternativen<br/><br/>Sicherstellung durch unabhängiges Audit (z.B.: nach soz./ökol. Gütesiegeln zertifizierte P/D, Kooperation mit NGOs)"
+              },
+              {
+                "levels": ["model"],
+                "description": "Multi-Stakeholder-Initiative (z.B.: mit Marktpartnern, NGOs etc.) hinsichtlich sozialer und ökologischer Aspekte"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Strukturelle Rahmenbedingungen zur fairen Preisbildung",
+        "relevance": "low",
+        "position": "3",
+        "soleProprietorship": true,
+        "developmentTracks": [
+          {
+            "developmentDetails": [
+              {
+                "levels": ["beginner"],
+                "description": "Verzicht auf rein preisgetriebene Beschaffungsprozesse (u.a. Auktionen, Ausschreibungs-verfahren)<br/><br/>Kein vom Einkaufspreis abhängiges Bonussystem für Einkäufer"
+              },
+              {
+                "levels": ["advanced"],
+                "description": "Langfristige, kooperative Beziehung werden wechselnden, kostenorientierten vorgezogen"
+              },
+              {
+                "levels": ["experienced"],
+                "description": "Evaluierung des Verhaltens der Einkäufer durch regelmäßige Mitarbeitergespräche mit Fokus auf die Herausforderungen, die sich durch eine ethische Beschaffung ergeben"
+              },
+              {
+                "levels": ["model"],
+                "description": "Innovative Strukturen im Beschaffungswesen (z.B.: Partizipation an Alternativwährungskonzepten, ökonomische Ansätze der Solidarischen Landwirtschaft etc.)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "details": {},
+  "definition": {},
+  "bestPractices": {},
+  "implementationHelp": {},
+  "moreinfo": {},
+  "footnotes": {}
+}
