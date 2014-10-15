@@ -1,104 +1,103 @@
 {
-
-    "shortcode": "D2",
-    "shortcodeSlug": "d2",
-    "name": "Solidarität mit Mitunternehmen",
-    "points": 70,
-    "soleProprietorship": true,
-    "goals": {},
-    "impulsQuestions": {},
-    "table": {
-        "subindicators": [
-            {
-                "title": "Offenlegung von Informationen + Weitergabe von Technologie",
-                "relevance": "middle",
-                "position": "1",
-                "soleProprietorship": true,
-                "developmentTracks": [
-                    {
-                        "developmentDetails": [
-                            {
-                                "levels": ["beginner"],
-                                "description": "Offenlegung finanzieller und technischer Information'
-                            },
-                            {
-                                "levels": ["advanced"],
-                                "description": "Umfassende Offenlegung von Kostenkalkulation, Bezugsquellen und Technologie'
-                            },
-                            {
-                                "levels": ["experienced"],
-                                "description": "Zusätzlich: Kostenlose Weitergabe einzelner Technologien'
-                            },
-                            {
-                                "levels": ["model"],
-                                "description": "Vollständige Transparenz und Open-Source-Prinzip'
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Weitergabe von Arbeitskräften, Aufträgen und Finanzmitteln; kooperative Marktteilnahme",
-                "relevance": "high",
-                "position": "2",
-                "soleProprietorship": true,
-                "developmentTracks": [
-                    {
-                        "developmentDetails": [
-                            {
-                                "levels": ["beginner"],
-                                "description": "Kooperation nur auf Anfrage'
-                            },
-                            {
-                                "levels": ["advanced"],
-                                "description": "Kooperation in Randbereichen des Geschäfts'
-                            },
-                            {
-                                "levels": ["experienced"],
-                                "description": "Kooperation im gesamten Geschäftsbereich'
-                            },
-                            {
-                                "levels": ["model"],
-                                "description": "Kooperation im gesamten Geschäftsbereich + Beteiligung an kooperativer Marktteilnahme'
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "title": "Kooperatives Marketing ",
-                "relevance": "middle",
-                "position": "3",
-                "soleProprietorship": true,
-                "developmentTracks": [
-                    {
-                        "developmentDetails": [
-                            {
-                                "levels": ["beginner"],
-                                "description": "Verzicht auf Diskreditierung der Konkurrenz'
-                            },
-                            {
-                                "levels": ["advanced"],
-                                "description": "Verzicht auf massenmediale Werbung (TV, Radio, Plakate)'
-                            },
-                            {
-                                "levels": ["experienced"],
-                                "description": "Mitaufbau eines gemeinsamen Produktinformationssystems (PIS)'
-                            },
-                            {
-                                "levels": ["model"],
-                                "description": "Mittragen der Brancheninitiative für ethisch-kooperatives Marketing'
-                            }
-                        ]
-                    }
-                ]
-            }
+  "shortcode": "D2",
+  "shortcodeSlug": "d2",
+  "name": "Solidarität mit Mitunternehmen",
+  "points": 70,
+  "soleProprietorship": true,
+  "goals": {},
+  "impulsQuestions": {},
+  "table": {
+    "subindicators": [
+      {
+        "title": "Offenlegung von Informationen + Weitergabe von Technologie",
+        "relevance": "middle",
+        "position": "1",
+        "soleProprietorship": true,
+        "developmentTracks": [
+          {
+            "developmentDetails": [
+              {
+                "levels": ["beginner"],
+                "description": "Offenlegung finanzieller und technischer Information"
+              },
+              {
+                "levels": ["advanced"],
+                "description": "Umfassende Offenlegung von Kostenkalkulation, Bezugsquellen und Technologie"
+              },
+              {
+                "levels": ["experienced"],
+                "description": "Zusätzlich: Kostenlose Weitergabe einzelner Technologien"
+              },
+              {
+                "levels": ["model"],
+                "description": "Vollständige Transparenz und Open-Source-Prinzip"
+              }
+            ]
+          }
         ]
-    },
-    "details": {},
-    "definition": {},
-    "bestPractices": {},
-    "implementationHelp": {},
-    "moreinfo": {},
-    "footnotes": {}
+      },
+      {
+        "title": "Weitergabe von Arbeitskräften, Aufträgen und Finanzmitteln; kooperative Marktteilnahme",
+        "relevance": "high",
+        "position": "2",
+        "soleProprietorship": true,
+        "developmentTracks": [
+          {
+            "developmentDetails": [
+              {
+                "levels": ["beginner"],
+                "description": "Kooperation nur auf Anfrage"
+              },
+              {
+                "levels": ["advanced"],
+                "description": "Kooperation in Randbereichen des Geschäfts"
+              },
+              {
+                "levels": ["experienced"],
+                "description": "Kooperation im gesamten Geschäftsbereich"
+              },
+              {
+                "levels": ["model"],
+                "description": "Kooperation im gesamten Geschäftsbereich + Beteiligung an kooperativer Marktteilnahme"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Kooperatives Marketing ",
+        "relevance": "middle",
+        "position": "3",
+        "soleProprietorship": true,
+        "developmentTracks": [
+          {
+            "developmentDetails": [
+              {
+                "levels": ["beginner"],
+                "description": "Verzicht auf Diskreditierung der Konkurrenz"
+              },
+              {
+                "levels": ["advanced"],
+                "description": "Verzicht auf massenmediale Werbung (TV, Radio, Plakate)"
+              },
+              {
+                "levels": ["experienced"],
+                "description": "Mitaufbau eines gemeinsamen Produktinformationssystems (PIS)"
+              },
+              {
+                "levels": ["model"],
+                "description": "Mittragen der Brancheninitiative für ethisch-kooperatives Marketing"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "details": {},
+  "definition": {},
+  "bestPractices": {},
+  "implementationHelp": {},
+  "moreinfo": {},
+  "footnotes": {}
 }
