@@ -1,0 +1,127 @@
+{
+	"shortcode": "D5",
+	"shortcodeSlug": "d5",
+	"name": "Erhöhung der sozialen und ökologischen Branchenstandards",
+	"points": 30,
+	"soleProprietorship": true,
+	"goals": "<p>Ziel ist, dass Unternehmen einer Branche bezüglich der für sie relevanten sozialen und ökologischen Aspekte    kooperieren, innovative Lösungen finden bzw. bereits bestehenden Initiativen (z.B.: Label, freiwillige    Branchenstandards) beitreten und diesbezügliche Informationen transparent anderen MitwerberInnen zugänglich machen,    um hiermit zu einer Erhöhung der Standards beizutragen. Auf politischer Ebene setzen sie sich mit Massnahmen, die    ihrer Größe und Gewichtigkeit entsprechen, transparent für höhere und feinere gesetzliche Rahmenbedingungen ein.</p><p>Zwei unterschiedliche Ansätze finden hinsichtlich der Erhöhung der sozialen und ökologischen Branchenstandards    Berücksichtigung: Die Zielerreichung kann über a) Kooperationen mit MitwerberInnen und Wertschöpfungspartnern sowie    die b) aktive, transparente Partizipation am politischen Prozess erfolgen.</p><p><strong>a) Kooperation mit    MitwerberInnen und Wertschöpfungspartnern:</strong> Zu einer Erhöhung der sozialen und ökologischen Standards    innerhalb der Branche können unterschiedlichste Maßnahmen beitragen, u.a. gemeinsame Verpflichtung zu höheren    Standards mit anderen Marktpartnern, Partizipation an qualitativen Label-Prozessen<a            href=\"https://wiki.gwoe.net/pages/viewpage.action?pageId=1540178#_ftn2\" rel=\"nofollow\">[2]</a>, Forschung&amp;Entwicklung.    Aktive Kommunikation dieser Aktivitäten, hohe Transparenz sowie Sicherstellung der Einhaltung, beispielsweise durch    Kooperationen mit zivilgesellschaftlichen Initiativen, spielen eine wesentliche Rolle. Die Kooperation beschränkt    sich hierbei nicht allein auf direkte MitwerberInnen, sondern kann und soll ebenfalls vor- und nachgelagerte    Wertschöpfungsstufen mit einbeziehen (potentielle Überscheidung mit A1, D1, D4). Sind die höheren Standards    inhärenter Bestandteil des Geschäftsmodells (z.B.: Nischenanbieter sozial / ökologisch führender Produkte /    Dienstleistungen), ist dies ebenfalls positiv anzurechnen, wenn ein weit über dem Standard liegendes Angebot    geschaffen wurde.&nbsp;</p><p><strong>b) Aktiver Beitrag zur Erhöhung legislativer Standards (Responsible    Lobbying):</strong> Je nach Unternehmensgröße und Branchencharakteristika können unterschiedliche Wege erfolgreich    auf eine Erhöhung der legislativen Standards auf kommunaler, staatlicher oder supranationaler Ebene wirken.    „Responsible Lobbying“ unterscheidet sich von der klassischen Form des Lobbyismus vor allem dadurch, WIE mit    politischen Entscheidungsträgern kooperiert wird (Prozess) und WAS Inhalt der Lobbyarbeit ist (Inhalte).    Verantwortliche Lobbyarbeit erfüllt zwei Kriterien:</p><ul>    <li>Prozesse: Die politische Kommunikation eines Unternehmens muss transparent und konsistent sein. Die Ziele, die        ein Unternehmen mit der Lobbyarbeit verfolgt, und die genutzten Werkzeuge müssen klar erkennbar sein. Allen        Gesprächspartnern gegenüber muss die gleiche Botschaft kommuniziert werden.    </li>    <li>Inhalte: Die Ziele der Lobbyarbeit müssen mit gesamtgesellschaftlichen Zielen vereinbar sein und dürfen nicht        dem Erwerb von Privilegien dienen. Sie müssen mit der Nachhaltigkeitsstrategie des Unternehmens im Einklang        stehen.“<a href=\"https://wiki.gwoe.net/pages/viewpage.action?pageId=1540178#_ftn3\" rel=\"nofollow\">[3]</a></li></ul><p>Unternehmensgröße sowie Größe und Fragmentierung der Branche, vom Oligopol hin zum Polypol, spielen eine    wesentliche Rolle bei der Beurteilung, welche Strategie sinnvoll und durchführbar ist. Weiters sind Initiativen zur    Erhöhung der Branchenstandards, sowohl hinsichtlich ihrer unternehmensinternen Reichweite, als auch ihrer    inhaltlichen Qualität zu beurteilen. Reichweite ist hierbei im Sinne des Umsatz-,&nbsp; Produktions- oder    Leistungsanteils der Produkte / Dienstleistungen, für welche die höheren Standards tatsächlich gelten, zu verstehen.    Hinsichtlich der inhaltlichen Qualität geht es um Breite und Tiefe beinhaltende Aspekte – handelt es sich nur um    einzelne soziale und / oder ökologische Randaspekte der Branche oder werden mehrere, branchenrelevante Risiken durch    die Standarderhöhung adressiert.</p>",
+	"impulsQuestions": "<ul><li>Welche Aktivitäten setzt das Unternehmen zur Erhöhung der sozialen und ökologischen Branchenstandards (z.B.: Kooperation mit Marktpartner; Partizipation an Labelprozessen)? Welche konkreten Inhalte betreffen diese Maßnahmen?</li><li>Welche Aktivitäten setzt das Unternehmen zur Erhöhung legislativer Standards sozialer und ökologischer Natur (z.B.: Kooperation mit NGOs; Lobbying)? Welche konkreten Inhalte betreffen diese Maßnahmen?</li></ul>",
+	"table": {
+		"subindicators": [
+			{
+				"title": "Kooperation mit MitwerberInnen und Partnern der Wertschöpfungs-kette",
+				"relevance": "high",
+				"position": "1",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "Erste Pilotprojekte zur gemeinsamen Entwicklung höherer Standards mit Marktpartnern (z.B.: F&E-Kooperation)<br/><br/>Keine wesentlichen Konflikte mit Zivilgesellschaft bezügl. der Standards<br/><br/>Aktive Kommunikation höherer Standards nach Außen (z.B.: Webseite)"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "Regelmäßige, etablierte Mechanismen zur gemeinsamen Entwicklung höherer Standards<br/><br/>Höhere Standards wesentlicher Bestandteil der Kommunikationspolitik des Unternehmens"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "Selbstverpflichtung auf Branchenebene"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "Sicherstellung und Überprüfbarkeit der höheren Standards  (z.B.: externe Audits und unabhängige Kontrollen; Kooperation mit NGOs)"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "Aktiver Beitrag zur Erhöhung legislativer Standards",
+				"relevance": "middle",
+				"position": "2",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "Transparente Offenlegung der politischen Aktivitäten<br/><br/>Kein Widerstand gegen höhere soziale und ökologische legislative Standards"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "Brancheninternes Engagement für höhere legislative Standards<br/><br/>(z.B.: in Kooperation mit Branchenvertretung)"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "Über die Branche hinausgehendes Engagement für höhere legislative Standards (z.B.: Kooperation mit NGOs)"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "Transparente, wesentliche Berührungsgruppen inkludierender Lobbying-Prozess (z.B.: Ausformulierte Gesetzesinitiativen)"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "Reichweite, inhaltliche Breite und Tiefe",
+				"relevance": "high",
+				"position": "3",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "Ein sozialer oder ökologischer Randaspekt betroffen"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "Ein wesentlicher sozialer oder ökologischer Aspekt betroffen<br/><br/>Tatsächliche Umsetzung höherer Standards betrifft > 25% des Umsatzes"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "Mehrere, wesentliche  soziale oder ökologische Aspekte betroffen<br/><br/>Tatsächliche Umsetzung höherer Standards > 50%"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "Alle wesentlichen sozialökologischen Aspekte<br/><br/>Erhöhung der Branchenstandards ist inhärenter Bestandteil der Unternehmenspositionierung (> 90%)"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"details": "<ul>    <li><strong>Unternehmensgröße / Marktmacht des Unternehmen:</strong> Mit zunehmender Unternehmensgröße und        zunehmendem -einfluss gewinnt der aktive Beitrag zur Erhöhung legislativer Standards bzw. der Einsatz für        branchenweit höhere Standards über die Branchenvertretung an Gewichtung. Vice versa, je kleiner das Unternehmen        bzw. je geringer die Marktmacht ausgeprägt ist, desto geringer ist die Bedeutung der positiven Beeinflussung        legislativer Aspekte (insbesondere für EPUs und KMUs sind die Einflussmöglichkeiten sehr eingeschränkt möglich).    </li>    <li><strong>Abgrenzung zu D2:</strong> Bei der Erhöhung der sozialen und ökologischen Branchenstandards ist die        Kooperation mit anderen Marktteilnehmern, worunter neben LieferantInnen, KundInnen und NGOs vor allem auch        Unternehmen derselben Branchen fallen, von Bedeutung. Folglich sind Redundanzen bei den Indikatoren D2 und D5        möglich. D5 fokussiert auch jene Aspekte der Kooperation, welche zu einer tatsächlichen Erhöhung der sozialen        und ökologischen Branchenstandards führen.    </li>    <li><strong>Anspruchsniveau und Effektivität der Initiativen:</strong> Bei der Bewertung gilt es, die Qualität der        Prozesse und das Anspruchsniveau freiwilliger höherer Standards kritisch zu reflektieren. Einige gegenwärtige        Initiativen sind stark von der Industrie beeinflusst, beziehen nur eingeschränkt zivilgesellschaftliche Akteure        mit ein und sind durch geringe Effektivität bei der Adressierung an ethische &nbsp;Herausforderungen der Branche        gekennzeichnet (siehe beispielhaft: Roundtable on Sustainable Palm Oil - <a                href=\"http://de.wikipedia.org/wiki/Roundtable_on_Sustainable_Palm_Oil#Kritik\" class=\"external-link\"                rel=\"nofollow\">http://de.wikipedia.org/wiki/Roundtable_on_Sustainable_Palm_Oil#Kritik</a> bzw. Global        Compact: <a href=\"http://de.wikipedia.org/wiki/Global_Compact#Kritik\" class=\"external-link\" rel=\"nofollow\">http://de.wikipedia.org/wiki/Global_Compact#Kritik</a>).        Hier spielt die Effektivität eine wesentliche Rolle. Inwiefern trägt die Initiative zu einem tatsächlichen        Wandel bei den Herausforderungen (der Branchen) bei. Unternehmensgetriebene Initiativen sind hierbei        Multistakeholder-Initiativen meist vom inhaltlichen Anspruchsniveau, der Zielsetzung und der Effektivität der        Umsetzung unterlegen.    </li></ul>",
+	"definition": "Viele Faktoren erschweren eine Umsetzung höherer sozialer und ökologischer Branchenstandards, wobei meist die Wettbewerbsfähigkeit des Standortes - im Falle lokaler, nationaler oder supranationaler Regelungen - bzw. die ökonomischen Restriktionen bei Unternehmen - im Falle von Branchenstandards - eine wesentliche Rolle spielen. Die Erhöhung von Standards benachteiligt oftmals jene AkteurInnen, welche im Wettbewerbsumfeld Bereitschaft zeigen, höhere ökologische oder soziale Standards umsetzen zu wollen. Ein Entgegenwirken kann hierbei durch Kooperation der Marktpartner untereinander im Rahmen freiwillig höherer Standards erfolgen. Dass derartige Prozesse vielfach auch massiver Kritik ausgesetzt sind, wird am Beispiel des „Roundtable on Sustainable Palm Oil“ ersichtlich[1]. Bei Konflikten rund um derartige und ähnliche Initiativen gilt es gegebenenfalls die Meinung von Experten und Vertretern der Zivilgesellschaft einzuholen, um die inhaltliche Qualität beurteilen zu können. Der Entstehungsprozess legislativer Rahmenbedingungen wird durch Unternehmen sowie Branchenvertretungen, welche gegenwärtig Regulierung vielfach entgegenstehen, mitgeprägt. Transparentes, aktives Eintreten für die Etablierung höherer Standard auf legislativer Ebene, insbesondere durch größere Branchenvertreter, kann dieser Dynamik entgegenwirken.",
+	"bestPractices": "<p>Hier könnten viele kleine Initiativen, Unternehmen, Kooperationsprojekte angeführt werden. Nachfolgende drei sind nur    beispielhaft:</p><ul>    <li>Finanzbranche: <a href=\"http://www.gabv.org/\" class=\"external-link\" rel=\"nofollow\">Global Alliance for Banking        on Values</a> - globaler Zusammenschluss unterschiedlicher Ethikbanken    </li>    <li>Gugler Cross Media: Kooperation bei der Entwicklung eines Cradle-to-Cradle-Produktes - <a            href=\"http://csr-blog.at/2012/03/27/cradle-to-cradle-innovated-by-gugler-so-wurde-die-natur-drucken/\"            class=\"external-link\" rel=\"nofollow\">Artikel</a></li>    <li><a href=\"http://de.wikipedia.org/wiki/Interface_Inc.\" class=\"external-link\" rel=\"nofollow\">Interface Inc.</a>:        der amerikanische Teppichproduzent wird oftmals als positives Beispiel für das Verhalten von börsennotierten        Konzern angeführt. -<strong> <a                href=\"http://grist.org/article/2009-10-19-ray-anderson-sustainability-interview-book/\"                class=\"external-link\" rel=\"nofollow\">Interview mit Ray Anderson</a> </strong></li></ul>",
+	"implementationHelp": "<p>Je nach Unternehmensgröße,&nbsp; Branchegröße / -struktur können sehr unterschiedliche Wege zu dieser&nbsp;    Zielsetzung beitragen. In stark fragmentierten Branchen beispielsweise durch die aktive Suche gleichgesinnter    MitwerberInnen und das Schaffen einer gemeinsamen Plattform, in hochkonzentrierten Branchen ein die legislativen    Rahmenbedingungen betreffender transparenter, branchenübergreifender Prozess in Kooperation mit NGOs und    zivilgesellschaftlichen Initiativen.</p><p>Auf inhaltlicher Ebene kann neben der Definition höherer Standards auch    ein <strong>Austausch von Wissen und Know-How</strong> zu Aspekten der Nachhaltigkeit, als auch ein <strong>Benchmarking</strong>    mit anderen Marktteilnehmern (z.B.: ökologischer Kennzahlen) hilfreich sein, um die eigenen Aktivitäten im    Branchenkontext zu vergleichen und besser einschätzen zu können.&nbsp;</p><p>Auf Ebene von Großunternehmen kann auch    die Partizipation an sogenannten <strong>\"Draft Norms\"</strong> zu Erhöhung legislativer Standards beitragen.</p>",
+	"moreinfo": "Dossier „Responsible Lobbying“ von CSR Weltweit: http://www.csr-weltweit.de/im-fokus/dossiers/responsible-lobbying/index.nc.html",
+	"footnotes": "<div><p><a href=\"https://wiki.gwoe.net/pages/viewpage.action?pageId=1540178#_ftnref1\" rel=\"nofollow\" title=\"\">[1]</a><a        class=\"external-link\" href=\"http://de.wikipedia.org/wiki/Roundtable_on_Sustainable_Palm_Oil#Kritik\"        rel=\"nofollow\">http://de.wikipedia.org/wiki/Roundtable_on_Sustainable_Palm_Oil#Kritik</a></p></div><div><p><a href=\"https://wiki.gwoe.net/pages/viewpage.action?pageId=1540178#_ftnref2\" rel=\"nofollow\" title=\"\">[2]</a>    Beispielweise Label Prozesse, welche den Anspruchkriterien der ISEAL Alliance entsprechen: <a class=\"external-link\"                                                                                                  href=\"http://www.isealalliance.org\"                                                                                                  rel=\"nofollow\">http://www.isealalliance.org</a></p></div><p><a href=\"https://wiki.gwoe.net/pages/viewpage.action?pageId=1540178#_ftnref3\" rel=\"nofollow\"                title=\"\">[3]</a> Dossier Responsible Lobbying&nbsp;– CSR Weltweit:<a class=\"external-link\"                                                                                     href=\"http://www.csr-weltweit.de/im-fokus/dossiers/responsible-lobbying/index.nc.html\"                                                                                     rel=\"nofollow\">http://www.csr-weltweit.de/im-fokus/dossiers/responsible-lobbying/index.nc.html</a></p>"
+}

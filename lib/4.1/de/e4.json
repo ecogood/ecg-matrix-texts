@@ -1,0 +1,93 @@
+{
+	"shortcode": "E4",
+	"shortcodeSlug": "e4",
+	"name": "Gemeinwohlorientierte Gewinn-Verteilung",
+	"points": 60,
+	"soleProprietorship": false,
+	"goals": "<p>Die Verwendung der Gewinne von Unternehmen ist einer der heißesten Diskussionspunkte in der Wirtschaft. Die Debatte    entzündet sich an den steigenden Ausschüttungsquoten börsennotierter Aktiengesellschaften – auf Druck der    globalisierten Finazmärkte. 2010 schütteten sieben der dreißig DAX-Konzerne mehr Geld an die AktionärInnen aus, als    sie im Vorjahr Gewinn gemacht hatten. Auch kleinere Unternehmen können einen Teil oder sogar ein Vielfaches des    Gewinnes an die EigentümerInnen ausschütten, selbst wenn diese gar nicht (mehr) mitarbeiten.</p><p>Ziel ist, dass    die Gewinne eines Unternehmens so gerecht, sinnstiftend und gemeinwohlfördernd wie möglich verteilt/reinvestiert    werden. Einkommen sollen grundsätzlich an Arbeitsleistungen gekoppelt werden. Kapitalbesitz soll nicht mehr zu einem    Anspruch auf ein Einkommen führen. (Ausnahme: GründerInnen, die eine „GründerInnen-Rente“/“GründerInnen-Pension“ für    eine gleich lange Zeitspanne erhalten, in der sie das Unternehmen durch ihre aktive Arbeit aufgebaut haben.)</p>",
+	"impulsQuestions": "<ul>    <li>Was ist das Ziel eines Unternehmens?</li>    <li>Was&nbsp; bedeutet „Leistung“ für uns?</li>    <li>Soll Kapital grundsätzlich einen Vermehrungsanspruch stellen dürfen?</li>    <li>Welche systemischen Folgen haben Kapitalrenditen (aus Geld wird mehr Geld ohne Arbeitsleistung)?</li>    <li>Sehen wir einen Zusammenhang zwischen der Gewohnheit von Kapitalrenditen und Wachstumszwang in der        Wirtschaft?<span style=\"font-size: 10.0pt;line-height: 13.0pt;\">&nbsp;</span></li></ul>",
+	"table": {
+		"subindicators": [
+			{
+				"title": "Außen-Ausschüttung",
+				"relevance": "high",
+				"position": "1",
+				"soleProprietorship": false,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "5-Jahresschnitt: Dividende nicht höher als Inflation plus 5%"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "+ kennt seine Ressourcennutzung und seine Emissionen<br/>5-Jahresschnitt: Dividende nicht höher als Inflation plus 2,5%(OEF1-Guide Punkte 4 und 5 oder äquivalent)"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "5-Jahresschnitt: Dividende nicht höher als Inflation"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "Keine Gewinnausschüttung an externe EigentümerInnen"
+							}
+						]
+					}
+				],
+				"keyFigures": "<p>Wie hoch ist eine Gewinnausschüttung an externe EigentümerInnen im 5-Jahresschnitt in % (im Vergleich zur Inflation)?</p>"
+			},
+			{
+				"title": "Gemeinwohl-orientierte Gewinnverwendung: Ausschüttung and Arbeit-Gebende“, Stärkung des Eigenkapitals sowie ökosoziale Reinvestitionen",
+				"relevance": "high",
+				"position": "2",
+				"soleProprietorship": false,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "50-70% des Gewinnes (davon mind. 50% sozial-ökologische Investitionen)"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "71-80% des Gewinnes (davon mind. 50% sozial-ökologische Investitionen)"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "81-90% des Gewinnes (davon mind. 50% sozial-ökologische Investitionen)"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "91-100% des Gewinnes (davon mind. 50% sozial-ökologische Investitionen)"
+							}
+						]
+					}
+				],
+				"keyFigures": "<p>Wieviel % des Gewinnes wird an Arbeitnehmer ausgeschüttet, wieviel % zur Stärkung des Eigenkapitals verwendet und wieviel % für sozial-ökologische Investitionen verwendet?</p>"
+			}
+		]
+	},
+	"details": "<div class=\"table-wrap\">    <table class=\"confluenceTable\">        <tbody>        <tr>            <td class=\"confluenceTd\"><p align=\"center\"><strong>Ausnahme: „GründerInnen-Rente“**</strong></p></td>            <td class=\"confluenceTd\"><p align=\"center\">Maximal das 3-fache des Durchschnittslohnes/-gehaltes</p></td>            <td class=\"confluenceTd\"><p align=\"center\">Maximal das 2-fache des Durchschnittslohnes/-gehaltes</p></td>            <td class=\"confluenceTd\"><p align=\"center\">Maximal das 1,5-fache des Durchschnittslohnes/-gehaltes</p></td>            <td class=\"confluenceTd\"><p align=\"center\">Maximal der Durchschnittslohn/-gehalt</p></td>        </tr>        <tr>            <td class=\"confluenceTd\"><p align=\"center\"><strong>Ausnahme: PE-/Venture-Kapital</strong></p></td>            <td class=\"confluenceTd\"><p align=\"center\">Ausnahmen: PE-/Venture-Kapital, Business Angels*</p></td>            <td class=\"confluenceTd\"><p align=\"center\">5-Jahresschnitt: Dividende nicht höher als Inflation plus 5%</p>            </td>            <td class=\"confluenceTd\"><p align=\"center\">5-Jahresschnitt: Dividende nicht höher als Inflation plus                2,5%</p></td>            <td class=\"confluenceTd\"><p align=\"center\">5-Jahresschnitt: Dividende nicht höher als Inflation</p></td>        </tr>        </tbody>    </table></div><p>&nbsp;</p><p>* <u>Begründung:</u> Manche Unternehmen sind noch zu jung oder klein, um an der Börse Kapial zu    erhalten oder von den Banken Kredit zu bekommen. Auf den „Risikokapitalmärkten“ sind hohe Kapitalrenten üblich; das    Redaktionsteam möchte Start-ups und Unternehmen, die keinen Zugang zu Banken haben, entgegen kommen, das Thema aber    gut im Auge behalten.</p><p>** <u>Begründung:</u> Manche GründerInnen nehmen sich jahre- oder jahrzehntelang nur ein    geringes Einkommen aus dem Unternehmen heraus (UnternehmerInnenlohn), damit sich dieses gut entwickeln kann und    damit sie später an den Früchten teilhaben wollen, manchmal auch zum Zweck der Renten-/Pensionsvorsorge. Der    Geltungszeitraum ist derselbe, in dem sie das Unternehmen aktiv aufgebaut haben. Wer von jung auf ein Unternehmen    aufgebaut hat, erhält eine Rente bis zum Tod. Wer das Unternehmen erst fünf Jahre vor Pensionsantritt gegründet hat,    eben nur fünf Jahre lang.</p><h4 id=\"E4Gemeinwohl-orientierteGewinnverteilung-Matrix41-häufigefragenzurBewertung\">    häufige fragen zur Bewertung:</h4><p><strong style=\"font-size: 10.0pt;line-height: 13.0pt;\"><em>Wie sieht das    Verhältnis von Aktiengesellschaft und Gemeinwohl-Orientierung aus?</em></strong></p><p>Der Gesetzeswortlaut des    österreichischen Aktiengesetzes kennt den Begriff des „öffentlichen Interesses“, unter welchem im Sinne eines    volkswirtschaftlichen Gesamtinteresses das Gemeinwohl verstanden wird. Ein Haftbarmachen von Vorstandsmitgliedern    für gemeinwohl-schädigendes Verhalten kann aus dieser Bestimmung jedoch nicht abgeleitet werden.</p><p>Das    österreichische Aktiengesetz und das Arbeitsverfassungsgesetz kennt, ebenso wie das deutsche Recht, den Begriff der    betrieblichen Mitbestimmung. In Österreich hat der Vorstand die Interessen der Arbeitnehmer von Gesetzeswegen zu    berücksichtigen. Beide Rechtsordnungen sehen die Entsendung von Arbeitnehmervertretern zur Wahrung ihrer Interessen    in den Aufsichtsrat vor.<a            href=\"file:///C:/Users/chrisruether/Dropbox/Redaktionsteam/Matrix4.1-Indikatoren/E4-Minimierung-der-Gewinnausschuettung-an-Externe-CF/E4_4.1_Endversion%20nach%20Lektorat-1.docx#_ftn1\"            title=\"\" class=\"external-link\" rel=\"nofollow\">[1]</a></p><p>&nbsp;</p><p><strong><em>Kann ein Aktionär auf    den Gewinnanspruch (Dividende) zur Förderung des Gemeinwohls verzichten?</em></strong></p><p>Das österreichische und    deutsche Aktienrecht entbehren einer Regelung zur Zulässigkeit und zur Umsetzung des Verzichts auf den    Gewinnanspruch. Ein Dividendenverzicht müsste in der Satzung der Aktiengesellschaft verankert werden. Dies kann    weitere rechtliche Fragestellungen aufwerfen, wie etwa ob der Verzicht dem Wesen der Aktiengesellschaft zuwider    läuft.</p><p>&nbsp;</p><h4 id=\"E4Gemeinwohl-orientierteGewinnverteilung-Matrix41-abgrenzungzuanderenindikatoren\">    abgrenzung zu anderen indikatoren:</h4><p><span style=\"font-size: 10.0pt;line-height: 13.0pt;\">GläubigerInnen: Ethisches Finanzmanagement B1</span></p><p>„Arbeit-Gebende“: Innerbetriebliche Demokratie und Transparenz E5</p><p>Demokratisches    Gemeinwesen/Zivilgesellschaft: Beitrag zum Gemeinwesen E2</p>",
+	"definition": "<p><span style=\"font-size: 10.0pt;line-height: 13.0pt;\">Drei Gründe lassen Kapitaleinkommen i. d. S., dass „aus Geld mehr Geld wird“ (ohne Arbeit) grundsätzlich in Frage stellen:</span></p><ul>    <li><strong>Wachsende Ungleichheit: </strong>Ein wachsender Anteil des Volkseinkommens stammt aus (arbeitslosen)        Kapitaleinkommen und ein sinkender Anteil aus Arbeitseinkommen (Löhne, Gehälter). Da das Finanzvermögen in den        Händen einer Minderheit konzentriert ist (zwanzig Prozent besitzen in Österreich rund 80 Prozent des        Finanzvermögens), bezieht diese Minderheit den Großteil aller Kapitaleinkommen. Die Mehrheit wird zu Gunsten der        KapitalbesitzerInnen strukturell enteignet – über Zinsen, Dividenden und Kursgewinne. Das gilt auch schon für        den „Inflationsausgleich“ auf Sparbüchern. Dieser muss finanziert werden – systemisch ist es die Gesamtheit der        KonsumentInnen, welche die Kreditkosten über den Kauf von Produkten und Dienstleistungen finanzieren; aus den        Kreditzinsen bezahlen Banken die Sparzinsen. 80 – 90 Prozent der Bevölkerung bezahlen jedoch mehr Kreditzinsen,        als sie an Sparzinsen erhalten – uns sei es auch nur der „Inflationsausgleich“. Bei 10 – 20 Prozent der        Bevölkerung ist es umgekehrt. Sie profitieren umso mehr, je höher die Sparzinsen sind. Der Zins ist ab dem        ersten Prozentpunkt ein Umverteilungsmechanismus von der großen Mehrheit zu einer kleinen Minderheit.    </li>    <li><strong>Wachstumszwang: </strong>Wenn Kapital verzinst werden muss, entsteht ein – systemischer –        Wachstumszwang. Doch die Wirtschaft kann nicht ewig wachsen. Von daher ist es sinnvoll, aus der Wachstumsspirale        auszusteigen, indem Kapital grundsätzlich nicht verzinst wird.    </li>    <li><strong>Mathematik:</strong> Langfristig ist eine Verzinsung des gesamten Finanzvermögens mathematisch gar nicht        möglich, wenn dieses ein immer größeres Vielfaches der Wirtschaftsleistung (BIP) ausmacht; denn Finanzvermögen        können nur vermehrt werden, wenn sie in die „reale“ Wirtschaft investiert werden und der Kapitalertrag von der        real erbrachten Wertschöpfung abgezweigt wird. Übersteigt jedoch das Finanzvermögen die reale Wirtschaft um ein        Vielfaches, kann das gesamte Finanzvermögen gar nicht mehr investiert – und verzinst – werden.<span                style=\"font-size: 10.0pt;line-height: 13.0pt;\">&nbsp;</span></li></ul>",
+	"bestPractices": "<p>Die in Gründung befindliche Demokratische Bank will „grundsätzlich keine Gewinne ausschütten“ (Auszug aus der    Vision): <a href=\"http://www.demba.at/\" class=\"external-link\" rel=\"nofollow\">http://www.demba.at</a></p><p>Die    Regionalwert AG weist eine Fülle nichtmonetärer Gewinnaspekte aus: <a            href=\"http://www.regionalwertag.de/index.php?option=com_content&amp;view=article&amp;id=15:gewinn&amp;catid=29:aktie&amp;Itemid=15\"            class=\"external-link\" rel=\"nofollow\">http://www.regionalwertag.de/index.php?option=com_content&amp;view=article&amp;id=15:gewinn&amp;catid=29:aktie&amp;Itemid=15</a></p><p>Düsselsolar: <a href=\"http://www.buefem.de/duessel-solar\" class=\"external-link\" rel=\"nofollow\">http://www.buefem.de/duessel-solar</a></p>",
+	"implementationHelp": "<p align=\"left\">Studium von Bürgerbeteiligungsmodellen wie der Regionalwert AG in Freiburg, der taz („tageszeitung“),    diverser Energiegenossenschaften oder des Projekts Demokratische Bank.</p><p align=\"left\">Neugestaltung der    Investor-Relations-Beziehungen in Richtung Sensibilisierung für die Auswirkungen von Kapitalrenditen und des    Zinssystems.</p>",
+	"moreinfo": "<h5 id=\"E4Gemeinwohl-orientierteGewinnverteilung-Matrix41-ZumThemaWachstumszwang\">Zum Thema Wachstumszwang:</h5><ul>    <li>De-growth-Bewegung: <a href=\"http://www.demokratische-bank.at/\" class=\"external-link\" rel=\"nofollow\">http://www.degrowth.net</a>    </li>    <li>Casse: <a href=\"http://www.demokratische-bank.at/\" class=\"external-link\"                  rel=\"nofollow\">http://steadystate.org</a></li>    <li>Nico Paech: „Befreiung vom Überfluss. Auf dem Weg in die Postwachstumsökonomie“, oekom 2012.</li>    <li>Irmi Seidl / Angelika Zahrnt (Hg): „Postwachstumsgesellschaft. Konzepte für die Zukunft“, Metropolis 2010.</li>    <li>Tim Jackson: „Wohlstand ohne Wachstum. Leben und wirtschaften in einer endlichen Welt“, oekom 2011.</li></ul><h5 id=\"E4Gemeinwohl-orientierteGewinnverteilung-Matrix41-ZumThemaFinanzvermögen\">Zum Thema Finanzvermögen:</h5><ul>    <li>World Wealth Report:</li>    <li>        <a href=\"http://www.capgemini.com/services-and-solutions/by-industry/financial-services/solutions/wealth/worldwealthreport/\"           class=\"external-link\" rel=\"nofollow\">http://www.capgemini.com/services-and-solutions/by-industry/financial-services/solutions/wealth/worldwealthreport/</a>    </li>    <li>Global Wealth Report:</li>    <li>        <a href=\"https://infocus.credit-suisse.com/app/article/index.cfm?fuseaction=OpenArticle&amp;aoid=368967&amp;lang=EN\"           class=\"external-link\" rel=\"nofollow\">https://infocus.credit-suisse.com/app/article/index.cfm?fuseaction=OpenArticle&amp;aoid=368967&amp;lang=EN</a>    </li></ul><p>&nbsp;</p><div><p>RedakteurIn: Christian Felber: <a href=\"mailto:info@christian-felber.at\" class=\"external-link\" rel=\"nofollow\">info@christian-felber.at</a>;    Mitarbeit: Nonno Breuss, Harro Colshorn, Angela Drosg-Plöckinger, Gisela Heindl, Christian Loy, Christian Rüther.</p></div>",
+	"footnotes": "<a href=\"file:///C:/Users/chrisruether/Dropbox/Redaktionsteam/Matrix4.1-Indikatoren/E4-Minimierung-der-Gewinnausschuettung-an-Externe-CF/E4_4.1_Endversion%20nach%20Lektorat-1.docx#_ftnref1\"   title=\"\" class=\"external-link\"   rel=\"nofollow\">[1]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abarahnlich: Gesetzesentwurf der europäischen Kommission vom November 2012 für eine Frauenquote in Aufsichtsräten. Dieser Vorschlag findet sich auch bei C.Felber, Gemeinwohl-Ökonomie, 2. Auflage."
+}

@@ -1,0 +1,127 @@
+{
+	"shortcode": "D2",
+	"shortcodeSlug": "d2",
+	"name": "Solidarität mit Mitunternehmen",
+	"points": 70,
+	"soleProprietorship": true,
+	"goals": "Die Gemeinwohl-Ökonomie baut auf systemischer Kooperation auf, der Kooperation mit Menschen und mit der Natur. Daraus ergibt sich die Solidarität mit Mitunternehmen als ein grundlegender Wert für unternehmerisches Handeln. Das Ziel sind überlebensfähige Verhaltensweisen, die Krisen, anstatt sie zu produzieren, solidarisch abfedern helfen. Wir brauchen einander. Mit dem Wahrnehmen der Verbundenheit aller und der daraus resultierenden Kooperation werden Unternehmen ihre Kreativität besser entfalten, am Markt neue Möglichkeiten und mehr Chancen erfahren sowie Krisen besser abfedern können als in einer konkurrierenden Ellbogengesellschaft. Unternehmen werden für kooperatives und solidarisches Verhalten belohnt. Aus Kontrakurrenz wird eine Lern-, Entwicklungs- und Solidargemeinschaft der Unternehmen.",
+	"impulsQuestions": "<ul><li>In welchen Bereichen arbeiten wir mit anderen Unternehmen zusammen? In der eigenen Branche, in anderen Branchen?</li><li>Was bedeutet es für unser Unternehmen, vom herrschenden Konkurrenzdenken abzuweichen und in möglichen Kooperationen zu denken?</li><li>Welche Beispiele für solidarisches Handeln mit Mitunternehmen gibt es bei uns? Wie stehen wir zu kooperativer Krisenbewältigung?</li><li>Welche Möglichkeiten der gegenseitigen finanziellen Unterstützung mit Mitunternehmen werden praktiziert?</li><li>Wie weit werden finanzielle und technische Informationen offengelegt? In welcher Form?</li><li>Welche Überlegungen gibt es zu kooperativem Marketing mit anderen Unternehmen?</li><li>In welchen Bereichen wird Wissen weitergegeben, um gegenseitiges Lernen zu unterstützen?</li></ul>",
+	"table": {
+		"subindicators": [
+			{
+				"title": "Offenlegung von Informationen + Weitergabe von Technologie",
+				"relevance": "middle",
+				"position": "1",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "Offenlegung finanzieller und technischer Information"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "Umfassende Offenlegung von Kostenkalkulation, Bezugsquellen und Technologie"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "Zusätzlich: Kostenlose Weitergabe einzelner Technologien"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "Vollständige Transparenz und Open-Source-Prinzip"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "Weitergabe von Arbeitskräften, Aufträgen und Finanzmitteln; kooperative Marktteilnahme",
+				"relevance": "high",
+				"position": "2",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "Kooperation nur auf Anfrage"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "Kooperation in Randbereichen des Geschäfts"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "Kooperation im gesamten Geschäftsbereich"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "Kooperation im gesamten Geschäftsbereich + Beteiligung an kooperativer Marktteilnahme"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "Kooperatives Marketing ",
+				"relevance": "middle",
+				"position": "3",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "Verzicht auf Diskreditierung der Konkurrenz"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "Verzicht auf massenmediale Werbung (TV, Radio, Plakate)"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "Mitaufbau eines gemeinsamen Produktinformationssystems (PIS)"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "Mittragen der Brancheninitiative für ethisch-kooperatives Marketing"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"details": "<p><strong>Belohnt werden</strong>:</p><p>1) kooperatives Marketing, z.B. Aufbau eines gemeinsamen    Produktinformationssystems</p><p>2) die Offenlegung relevanter Information (z.B. Kostenkalkulation,    Zulieferquellen)</p><p>3) die Weitergabe von Know-how (Open-Source-Prinzip)</p><p>4) die Überlassung von    Arbeitskräften bei schwacher Auftragslage</p><p>5) die Weiterreichung von Aufträgen</p><p>6) die Unterstützung mit    kostenlosen Krediten</p><p>7) die Beteiligung an einer kooperativen Krisenbewältigung („Branchentisch“)<span        style=\"color: rgb(0,0,0);font-size: 1.8em;font-weight: bold;line-height: normal;\"></span></p><p class=\"NoSpacing\">Der Indikator gilt für alle Branchen und Unternehmensgrößen, eine weitere Typisierung erfolgt    nicht.</p><p class=\"NoSpacing\">Bei der Bewertung ist zu berücksichtigen, dass die Umsetzung der Ideen umso    schwieriger wird, je branchennäher und je näher die Unternehmen einander in Angebot und Preis sind. Es ist ein    großer Unterschied, ob ein Hotel bei Überbuchung seine Gäste in ein anderes Hotel schickt (das könnte man noch unter    Kundenservice einordnen) oder ob ein Einzelhändler seine Kunden zum nächsten Einzelhändler schickt.</p><p        class=\"NoSpacing\">Bei der Weitergabe von Technologie und Know-how ist zwischen technischem Know-how bzw.    Patenten und Soft Skills zu unterscheiden. Es ist leichter, eine Schulung für Gewaltfreie Kommunikation umzusetzen    als Produktformeln oder ähnliches zu veröffentlichen. Letzteres kann ein Unternehmen sehr verwundbar machen, vor    allem in der Übergangszeit vom jetzigen Wirtschaftssystem hin zu einer echten Kultur des Gemeinwohls. Dies ist in    der Bewertung zu berücksichtigen.</p><p>Bei der Weitergabe von Aufträgen an Mitunternehmen werden als Ausgleich    bisweilen Provisionen bezahlt, um angefallene Akquisekosten abzudecken. Eine Provision bis zu 10&nbsp;% des    Auftragsvolumens ist denkbar. Dies wird geringer bewertet als die Weitergabe von Aufträgen ohne Provision, weil es    nicht dazu führt, dass der Auftrag zur ProduzentIn/DienstleisterIn mit der besten Qualität bzw. Gemeinwohlbilanz    kommt.</p><p><strong>Abgrenzungen zu anderen Indikatoren </strong></p><p>Der Indikator ist verbunden mit dem    Indikator D1 (Ethischer Verkauf) – Mittragen der Brancheninitiative für ethisch-kooperatives Marketing.</p>",
+	"definition": "<p>Konkurrenz (Definition: „einander ausschließende Zielerreichung“, z.B. wenn ein Unternehmen Marktanteile erhöht, muss    ein anderes Unternehmen zwingend Marktanteile abgeben) ist im gegenwärtigen Wirtschaftssystem einer der höchsten    Werte. Im Koalitionsvertrag der deutschen Bundesregierung (geschlossen 2009) kommt das Wort „Wettbewerb“ 81-mal vor,    der Wert Menschenwürde dreimal und der Wert Solidarität viermal.[1]</p><p>Konkurrenz führe zu mehr Leistung,    Effizienz, Innovation und Wohlstand, so das herrschende Verständnis. Zahlreiche Studien bestätigen das Gegenteil:    Das Gegeneinander ist weniger effizient als ein Miteinander. 87&nbsp;% von fast 500 ausgewerteten Studien kommen zum    Ergebnis, dass Kooperation Menschen stärker motiviert und zu höheren Leistungen führt als Konkurrenz (s. KOHN,    205).</p><p>Die stärksten Motive im Rahmen der Kooperation sind Wertschätzung, Anerkennung und das Gelingen von    Beziehungen; in Rahmen der Konkurrenz ist das stärkste Motiv die Angst (s. KOHN).</p><p>In der Gemeinwohl-Ökonomie    wird Konkurrenz keineswegs abgeschafft: Alle dürfen frei in den Markt eintreten und ebenso frei ausscheiden. Das ist    sogar eine „liberalere“ Marktwirtschaft als heute, wo a) die marktbeherrschenden Unternehmen allerlei Tricks    anwenden, um Start-ups vom Markteintritt abzuhalten und vor allem b) als „systemrelevant“ eingestufte Banken und    Industriebetriebe gar nicht aus dem Markt ausscheiden können. In der Gemeinwohl-Ökonomie haben alle die <em>gleiche        Freiheit</em>, in den Markt einzutreten und aus dem Markt auszuscheiden. Der entscheidende Unterschied wird der    sein, dass <em>im Markt </em>Unternehmen einerseits für aggressives Wettbewerbsverhalten, das die Schädigung anderer    oder das alleinige Triumphieren des eigenen Unternehmens zum Ziel hat, durch Negativkriterien (z.B. feindliche    Übernahme, Dumpingpreise oder Sperrpatente) stark benachteiligt werden und sich so in Konkursgefahr begeben, und    dass sie andererseits umso stärker belohnt werden, je mehr sie sich gegenseitig helfen und solidarisch verhalten.    Wer anderen hilft, dessen Gemeinwohl-Bilanz verbessert sich.<span style=\"font-size: 10.0pt;line-height: 13.0pt;\">&nbsp;</span></p>",
+	"bestPractices": "<p><span style=\"font-size: 10.0pt;line-height: 13.0pt;\">1) </span><strong        style=\"font-size: 10.0pt;line-height: 13.0pt;\">Werbung/Marketing</strong><span        style=\"font-size: 10.0pt;line-height: 13.0pt;\">: Die Berliner Bäckerei Märkisches Landbrot spricht nicht von Konkurrenz, sondern von Bäckerkollegen, mit denen sie kooperieren. Auf Werbung im klassischen Sinne wird vollständig verzichtet: Marketing (etwa 3 % des Umsatzes) beschränkt sich auf den Versuch zur Transparenz.&nbsp;</span></p><p>2) <strong>Transparente Kostenkalkulation: </strong>Märkisches Landbrot beteiligt sich an dem    Produktinformationssystem „<a href=\"http://www.bio-mit-gesicht.de/\" class=\"external-link\" rel=\"nofollow\">Bio mit        Gesicht</a>“ und bietet transparente Informationen und Details zur regionalen Lieferkette sowie zur Herkunft der    verwendeten ökologischen Rohstoffe: Informationen über Lieferanten sind hier ersichtlich und dadurch auch die    Zulieferquellen von Märkisches Landbrot offengelegt. Die am „Runden Tisch Getreide“ gemeinsam mit den Bauern    verhandelten Preise werden auf der Website genannt. Auch das Ergebnisprotokoll vom „Runden Tisch Getreide“ wird auf    der Website veröffentlicht.</p><p>3) <strong>Know-how:</strong> Open Source, free software und free hardware, z.B.    Internet-Browser Firefox, E-Mail-Programm Thunderbird, Betriebssystem Ubuntu/Linux, Online-Enzyklopädie Wikipedia.    Der Erfinder der Impfung gegen Kinderlähmung, Dr. Jonas, schenkte das Patent der UNO. Rhomberg Bau GmbH in    Vorarlberg hat das Patent für seine Holz-Hochhäuser freigegeben. Die Bäckerei Märkisches Landbrot stellt ihr Wissen    interessierten Laien sowie Menschen vom Fach zur Verfügung. Das geschieht in Form von Betriebsführungen, beim    jährlichen Bäckerwandern gemeinsam mit anderen Öko-Bäckern, in der AG „Gutes Brot“, bei Demeter-Bäckertreffen und in    der Runde der Bäcker des Märkischen Wirtschaftsverbunds fair &amp; regional. Auch wissenschaftliche Ergebnisse    werden frei zur Verfügung gestellt. So auch die Ergebnisse einer gemeinsam mit dem Forschungsinstitut biologischer    Landbau (FibL) durchgeführten Studie zu Verarbeitungsprozessen von Keimlingen oder die detaillierte Methodik zur    Berechnung des Product Carbon Footprint für die eigenen Brote, die in einem Buch veröffentlicht wurden. Märkisches    Landbrot nimmt zum Austausch von Wissen und Erfahrungen regelmäßig Bäcker aus anderen Bäckereien als Gastbäcker auf,    ebenso tauschen sie Lehrlinge mit der auf dem gleichen Betriebsgelände ansässigen Konditorei. So haben die    Auszubildenden die Möglichkeit, sowohl die Bio-Bäckerei als auch die Bio-Konditorei kennenzulernen.</p><p>4)    <strong>Arbeitskräfte: </strong>Im Baskenland sind derzeit (April 2012) 21 Unternehmen in der Gruppe NER („Nuevo    estilo de relaciones“, „Neuer Beziehungsstil“) zusammengeschlossen. Sie unterstützen einander in der derzeitigen    Krise in Spanien mit unterschiedlichsten Mitteln. Die Unternehmen überlassen einander Arbeitskräfte, weshalb diese    weder gekündigt werden müssen noch das Unternehmen in Finanznöte gerät.</p><p>5) <strong>Aufträge:</strong> Die    sechs AAP-Architekten bearbeiten Aufträge kooperativ. Märkisches Landbrot empfiehlt regelmäßig andere ökologische    Bäcker-Kollegen bei überregionalen Anfragen, die nicht auf den eigenen Touren liegen – denn das Firmenziel ist nach    Möglichkeit der regionale Vertrieb in Berlin-Brandenburg.</p><p>6) <strong>Finanzmittel:</strong> Einige der im    „Blumauer Manifest“ zusammengeschlossenen Familienunternehmen praktizieren einen Liquiditätsausgleich: Die    Waldviertler Schuhwerkstatt GEA verkauft im Winter viele Schuhe und Thoma Holz im Sommer viele Holzhäuser, in der    jeweiligen Nebensaison stützen sie sich mit Liquidität. Märkisches Landbrot gewährt Bauern aus der fair&amp;regional-Gruppe    zinslose Kredite in Bedarfssituationen, z.B. bei Ernteausfällen. Weiters wurden an Mitunternehmer, wie den    Fuhrunternehmer und den Elektroinstallateur, zinsvergünstigte Kredite vergeben. Eine Kollegen-Bäckerei erhielt einen    zinsvergünstigten Kredit für den Kauf eines Backofens.</p><p>7) <strong>Kooperative Krisenbewältigung:</strong> In    der größten Genossenschaft der Welt, Mondragón, fließt in „fetten“ Jahren ein Teil der Überschüsse in einen    Krisenfonds, aus dem Unternehmen, denen es schlecht geht, gestützt werden.</p>",
+	"implementationHelp": "<p><strong style=\"font-size: 10.0pt;line-height: 13.0pt;\">Allgemein:</strong></p><p>Kooperationswissen und die    theoretischen Grundlagen zu Konkurrenz und Kooperation sollten von allen Menschen im Betrieb angeboten werden.    Anbieten würde sich eine Kooperationsbeauftragte oder besser ein Team für Kooperationsfragen und Solidarität: im    Unternehmen, innerhalb der Branche, in der Zulieferkette und in der gesamten Wirtschaft.</p><p><strong>Zu den    einzelnen Aspekten:</strong></p><p>1) <strong>Werbung/Marketing:</strong> Die Pionier-Unternehmen der    Gemeinwohl-Ökonomie könnten den Beginn machen und über die IT-Gruppe und später die IT-Unternehmen unter den    PionierInnen erste Prototypen in Auftrag geben. Diese Prototypen können für alle Branchen entwickelt und    ausdifferenziert werden. Denkbar ist sogar eine gesetzliche Grundlage, jedenfalls aber Branchenvereinbarungen.</p><p>2) <strong>Transparente Kostenkalkulation: </strong>Sämtliche Bezugsquellen und die bezahlten Einkaufspreise werden    offengelegt.</p><p>3) <strong>Know-how:</strong> Offenlegung des Quellcodes sowie der technischen Grundlagen von    Innovationen, auch von sozialen Technologien. Wer die anderen gar einschult, von Betriebsführungen und    brancheninternen Fortbildungen bis hin zu Gewaltfreier Kommunikation und Soziokratie, erhält Gemeinwohl-Punkte.</p><p>4) <strong>Arbeitskräfte:</strong> Je nach Auftragslage überlassen sich befreundete Unternehmen gegenseitig    Arbeitskräfte. Auf diese Weise lernen einander die Mitunternehmen auch besser kennen.</p><p>5)    <strong>Aufträge:</strong> Ein einfaches Beispiel: Die meisten Hotels einer Stadt sind ausgebucht. Anstatt den    anfragenden KundInnen zu sagen „Wir sind voll“, wird das nächstgelegene Hotel mit einem freien Zimmer genannt. Wenn    Unternehmen für einen Auftrag nicht so kurzfristig zusätzliche Arbeitskräfte einstellen können, wissen sie stets,    welches befreundete Unternehmen den Auftrag stattdessen übernehmen könnte, oder – „höchste Stufe“ – Unternehmen    könnten zwar weitere Arbeitskräfte einstellen und wachsen, wollen dies aber nicht, weil sie ihre „optimale Größe“    erreicht haben. Sie geben zusätzliche Aufträge lieber an Mitunternehmen weiter.</p><p>6)    <strong>Finanzmittel:</strong> Bei saisonal schwankender Liquidität können sich Unternehmen gegenseitig stützen und    über das Jahr einen Liquiditätsausgleich praktizieren; bei konstant hoher Liquidität können an Mitunternehmen auch    zinsfreie Kredite vergeben werden oder AnteilseignerInnen (ohne Dividendenanspruch), was die Abhängigkeit der    Unternehmen von Banken und Börsen und damit die Kapitalkosten verringert.</p><p>7) <strong>Kooperative    Krisenbewältigung:</strong> Bricht der Markt ein (Nachfragerückgang) oder treten plötzlich mehrere neue Anbieter auf    (Angebotsschwemme), reagieren Unternehmen heute mit einer Verschärfung des Wettbewerbs. In Zukunft könnten sie sich    an einem Branchentisch versammeln und gemeinsam nach Lösungen suchen, wie zum Beispiel: a) Reduktion der Arbeitszeit    aller, b) Abbau einzelner Arbeitsplätze bei allen, c) solidarische Umschulung eines Teils der Beschäftigten, d)    solidarische Spezialisierung eines Betriebes, e) unterstützte Schließung eines Betriebes, …<span            style=\"font-size: 10.0pt;line-height: 13.0pt;\">&nbsp;</span></p>",
+	"moreinfo": "<p><strong>Bücher zu Grundlagen:</strong></p><ul><li>Alfie Kohn: „No Contest. The Case against Competition. Why we lose in our race to win“, Houghton Mifflin Company, Boston/New York.</li><li>Joachim Bauer: „Das Prinzip Menschlichkeit“, Hoffmann und Campe, Hamburg.</li><li>Joachim Bauer (2008): „Das kooperative Gen. Abschied vom Darwinismus“, Hoffmann und Campe, Hamburg.</li><li>Gerald Hüther (2009): „Was wir sind und was wir sein könnten“, S. Fischer, Frankfurt a. Main.</li><li>Richard Sennett (2012): \"Zusammenarbeit: Was unsere Gesellschaft zusammenhält\", Carl Hanser Verlag, München</li></ul><p>&nbsp;</p><p><strong>Bücher zu Solidarischer Ökonomie:</strong></p><ul><li>Sven Giegold/Dagmar Embshoff (Hg) (2009): „Solidarische Ökonomie im globalisierten Kapitalismus“, VSA, Hamburg.<span style=\"font-size: 10.0pt;line-height: 13.0pt;\">&nbsp;</span></li><li>Elisabeth Voß/Netz für Selbstverwaltung und Selbstorganisation (Hg.) (2010): „Wegweiser Solidarische Ökonomie. Anders Wirtschaften ist möglich“, AG Spak, Wasserburg.</li></ul><p>&nbsp;</p><p><strong>Links</strong>:</p><ul><li>Solidarische Ökonomie:<a href=\"http://de.wikipedia.org/wiki/Solidarische_%C3%96konomie\" class=\"external-link\" rel=\"nofollow\"> http://de.wikipedia.org/wiki/Solidarische_%C3%96konomie</a></li></ul><ul><li>Multi-Kooperative Mondragón: <a href=\"http://www.mondragon-corporation.com/\" class=\"external-link\" rel=\"nofollow\">http://www.mondragon-corporation.com</a></li><li>Blumauer Manifest: <a href=\"http://www.blumau.com/manifest.html\" class=\"external-link\" rel=\"nofollow\">http://www.blumau.com/manifest.html</a></li></ul><p>&nbsp;</p><br><div><p><em>Redakteurin</em>: Eva Nagl-Pölzer <a href=\"mailto:consulting@nagl-poelzer.ocm\" class=\"external-link\" rel=\"nofollow\">consulting@nagl-poelzer.com</a> (basierend auf der Vorarbeit von Christian Felber). <em>ExpertInnen</em>: Elisabeth Voß, Dagmar Embshoff, Sven Giegold, Paul Singer</p></div>",
+	"footnotes": "<pre><a rel=\"nofollow\" title=\"\" href=\"https://wiki.gwoe.net/#_ftnref1\">[1]</a> <a rel=\"nofollow\" class=\"external-link\" href=\"http://www.cdu.de/doc/pdfc/091026-koalitionsvertrag-cducsu-fdp.pdf\">http://www.cdu.de/doc/pdfc/091026-koalitionsvertrag-cducsu-fdp.pdf</a></pre>"
+}

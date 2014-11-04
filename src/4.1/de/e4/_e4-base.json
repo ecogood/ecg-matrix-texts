@@ -1,0 +1,77 @@
+{
+  "shortcode": "E4",
+  "shortcodeSlug": "e4",
+  "name": "Gemeinwohlorientierte Gewinn-Verteilung",
+  "points": 60,
+  "soleProprietorship": false,
+  "goals": "{{goals.html}}",
+  "impulsQuestions": "{{impulsQuestions.html}}",
+  "table": {
+    "subindicators": [
+      {
+        "title": "Außen-Ausschüttung",
+        "relevance": "high",
+        "position": "1",
+        "soleProprietorship": false,
+        "developmentTracks": [
+          {
+            "developmentDetails": [
+              {
+                "levels": ["beginner"],
+                "description": "5-Jahresschnitt: Dividende nicht höher als Inflation plus 5%"
+              },
+              {
+                "levels": ["advanced"],
+                "description": "+ kennt seine Ressourcennutzung und seine Emissionen<br/>5-Jahresschnitt: Dividende nicht höher als Inflation plus 2,5%(OEF1-Guide Punkte 4 und 5 oder äquivalent)"
+              },
+              {
+                "levels": ["experienced"],
+                "description": "5-Jahresschnitt: Dividende nicht höher als Inflation"
+              },
+              {
+                "levels": ["model"],
+                "description": "Keine Gewinnausschüttung an externe EigentümerInnen"
+              }
+            ]
+          }
+        ],
+        "keyFigures": "<p>Wie hoch ist eine Gewinnausschüttung an externe EigentümerInnen im 5-Jahresschnitt in % (im Vergleich zur Inflation)?</p>"
+      },
+      {
+        "title": "Gemeinwohl-orientierte Gewinnverwendung: Ausschüttung and Arbeit-Gebende“, Stärkung des Eigenkapitals sowie ökosoziale Reinvestitionen",
+        "relevance": "high",
+        "position": "2",
+        "soleProprietorship": false,
+        "developmentTracks": [
+          {
+            "developmentDetails": [
+              {
+                "levels": ["beginner"],
+                "description": "50-70% des Gewinnes (davon mind. 50% sozial-ökologische Investitionen)"
+              },
+              {
+                "levels": ["advanced"],
+                "description": "71-80% des Gewinnes (davon mind. 50% sozial-ökologische Investitionen)"
+              },
+              {
+                "levels": ["experienced"],
+                "description": "81-90% des Gewinnes (davon mind. 50% sozial-ökologische Investitionen)"
+              },
+              {
+                "levels": ["model"],
+                "description": "91-100% des Gewinnes (davon mind. 50% sozial-ökologische Investitionen)"
+              }
+            ]
+          }
+        ],
+        "keyFigures": "<p>Wieviel % des Gewinnes wird an Arbeitnehmer ausgeschüttet, wieviel % zur Stärkung des Eigenkapitals verwendet und wieviel % für sozial-ökologische Investitionen verwendet?</p>"
+      }
+    ]
+  },
+  "details": "{{details.html}}",
+  "definition": "{{definition.html}}",
+  "bestPractices": "{{bestPractices.html}}",
+  "implementationHelp": "{{implementationHelp.html}}",
+  "moreinfo": "{{moreinfo.html}}",
+  "footnotes": "{{footnotes.html}}"
+}

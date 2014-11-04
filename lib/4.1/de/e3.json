@@ -1,0 +1,127 @@
+{
+	"shortcode": "E3",
+	"shortcodeSlug": "e3",
+	"name": "Reduktion ökologischer Auswirkungen",
+	"points": 70,
+	"soleProprietorship": true,
+	"goals": "<p>Ein gemeinwohlorientiertes Unternehmen setzt sich</p><p>a)&nbsp;&nbsp;&nbsp; aktiv mit seinen ökologischen    Auswirkungen auseinander</p><p>b)&nbsp;&nbsp;&nbsp; erhebt und dokumentiert seine direkten und indirekten    Umweltauswirkungen der Unternehmensgröße/-aktivitäten angemessen</p><p>c)&nbsp;&nbsp;&nbsp; hat ein Programm, um    seine negativen Auswirkungen kontinuierlich zu reduzieren</p><p>d)&nbsp;&nbsp;&nbsp; hat ein Programm, um seine    positiven Auswirkungen zu verstärken und bekannt zu machen</p><p>&nbsp;</p><p>Die Unternehmensaktivitäten sollen dem    „Quartett der Nachhaltigkeit“ <a href=\"#_ftn1\" title=\"\" rel=\"nofollow\">[1]</a> folgen:</p><ul>    <li><strong>Konsistenz</strong> ist die Notwendigkeit, alle (wirtschaftlichen) Tätigkeiten so zu gestalten, dass sie        sich in natürliche Kreisläufe einfügen können (Einsatz von naturverträglichen Technologien).    </li>    <li><strong>Effizienz</strong> ist die bessere Nutzung der Ressourcen wie z.B. Energie, Material, Flächen oder auch        Geld (Ressourcenproduktivität).    </li>    <li><strong>Suffizienz</strong> zielt auf einen geringeren Verbrauch von Ressourcen durch eine verringerte Nachfrage        nach Gütern.    </li>    <li><strong>Resilienz </strong>bedeutet, das Puffervermögen unserer Systeme (natürliche wie technische oder        wirtschaftliche) soweit zu festigen, dass die Systeme auch bei Störungen halbwegs stabil bleiben können.    </li></ul>",
+	"impulsQuestions": "<li>Wie werden potenziell schädliche Umweltwirkungen erkannt und vermieden?</li><li>Welche konkreten ökologischen Zielsetzungen und Strategien existieren?</li><li>Welche ökologischen Aspekte werden aktiv gesteuert?</li><li>Welche Maßnahmen werden gesetzt, um die ökologischen Auswirkungen zu <br> reduzieren?</li><li>Zu welchen ökologischen Aspekten liegen Kennzahlen vor, und wie ist deren Trend über die vergangenen Jahre    (Materialeinsatz, Energie- und Wasserverbrauch, Emissionen, Abfall, Mobilitätskennzahlen)? Gelten diese für das    gesamte Unternehmen oder nur für Teilbereiche?</li><li>Welche Energieformen werden genutzt?</li><li>Besteht eine Zertifizierung nach ISO 14001, EMAS oder Vergleichbarem?</li><li>Werden Umweltdaten erfasst und veröffentlicht?</li><li>Gibt es ein System, mit dem ökologische Fußabdrücke ermittelt werden?</li>",
+	"table": {
+		"subindicators": [
+			{
+				"title": "1. Absolute Auswirkungen1<br/><br/>Das Unternehmen ...",
+				"relevance": "middle",
+				"position": "1",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "... kennt die Nutzung seiner P/D und die Herkunft seiner Hilfsstoffe und Produktionsmittel"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "+ kennt seine Ressourcennutzung und seine Emissionen<br/><br/>(OEF1-Guide Punkte 4 und 5 oder äquivalent)"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "+ führt regelmäßig eine OEF–Analyse durch (OEF-Guide Punkte 6-9 oder äquivalent)"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "+ veröffentlicht die Daten und tritt mit den Ergebnissen in Kooperation zu anderen Unternehmen der Branche"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "2. Relative Auswirkungen:<br/><br/>Im Branchenvergleich liegt das Unternehmen bzgl. Stand der Technik und Gesetzesvorgaben ...",
+				"relevance": "high",
+				"position": "2",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "… hinsichtlich einiger ökolog. Auswirkungen über dem Branchendurchschnitt"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "… hinsichtlich einiger ökolog. Auswirkungen über dem Branchendurchschnitt mit klar erkennbaren Maßnahmen zur Verbesserung"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "… hinsichtlich wesentlicher ökolog. Auswirkungen über dem Branchendurchschnitt mit klar erkennbaren Maßnahmen zur Verbesserung"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "… hinsichtlich wesentlicher ökolog. Auswirkungen weit über dem Durchschnitt (Innovationsführer, Branchenleader, etc.)"
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "3. Management und Strategie<br/><br/>Das Unternehmen …",
+				"relevance": "high",
+				"position": "3",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "… setzt erste Schritte zur Identifikation der wesentlichen ökologischen Auswirkungen und Risiken (klare Verantwortlichkeiten, institutionalisierte Prozesse, identifizierte Umweltkonten)"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "+ … erhebt zu seinen Umweltkonten entsprechend Kennzahlen und verfügt über Optimierungs-Strategien"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "+ …<br/><br/>wie neben, nur: langfristige Reduktions- bzw. Substitutions-strategien"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "wie neben + eindeutige Beurteilung des „Quartetts der Nachhaltigkeit“ bzgl. der Umweltkonten"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"details": "1 Die Beurteilung folgt dem ökologischen Fußabdruck für Unternehmen oder äquivalenten Umweltkonten, OEF=Ökologischer Fußabdruck für Unternehmen.<br/><br/>Auf EU-Ebene (http://ec.europa.eu/environment/eussd/corporate_footprint.htm) ist ein EOF-Guide (Leitfaden zur Bestimmung eines Umwelt-Fußabdrucks für Unternehmen) veröffentlicht: http://ec.europa.eu/environment/eussd/pdf/footprint/OEF%20Guide_final_July%202012_clean%20version.pdf<p>Für die Bewertung sind sowohl die absoluten Umweltauswirkungen als auch die relativen (im Branchenvergleich bzw. im    Vergleich zum Nutzen für die Gesellschaft) zu beachten.</p><ul>    <li>Ressourcen: Absoluter Materialeinsatz (Rohstoffe, Vorprodukte, Papier etc.), Einsatz Sekundärrohstoffe,        Substitution durch ökologisch höherwertige Rohstoffe, Wasserverbrauch, Recycling und stoffliche Wiederverwendung        etc.    </li>    <li>Energie &amp; Klima: Treibhausgas-Emissionen im Branchenvergleich; %-<u>Satz</u> erneuerbarer Energieträger;        Reduktion Energieverbrauch pro Mitarbeiter; <br> Mobilitätsstatistiken    </li>    <li>Sonstige Emissionen in Luft, Wasser und Boden: SO<sub>2</sub>; NO<sub>x</sub>, VOC, PM, Schwermetalle,        Kanzerogene/Mutagene/Radioaktive Stoffe, Allergene, <br> Dioxine, Furane etc.    </li>    <li>Abfälle wie Restmüll, Bioabfall, Altglas, Altpapier, Verpackungen, Elektronikschrott, Sondermüll, Schadstoffe,        radioaktiver Abfall, Produktionsabfälle, Schlachtabfälle etc.    </li></ul><p>Der jeweilige Branchenhintergrund, der Stand der Technik sowie die jeweilige Gesetzeslage vor Ort werden    herangezogen und führen zu den Einstufungen bei den Bewertungen. Die Beurteilung der absoluten Auswirkung folgt dem    ökologischen Fußabdruck für Unternehmen (OEF, die Methode steckt jedoch noch in den Kinderschuhen) oder äquivalenten    Umweltkonten.</p><p>&nbsp;</p><p><strong>Branchen-/Größenbesonderheiten:</strong></p><p>Größere Unternehmen haben im    Allgemeinen eine höhere Umweltwirkung, auch die Art der P/D „wirken“ anders. Letzter Aspekt ist Gegenstand von D3,    und von großen Unternehmen kann man sicherlich auch eher erwarten, an höherwertigen Standards mitzuarbeiten    (D5).</p><p>Mit E3 geht es hauptsächlich darum, die Unternehmen zu „öko-effizienteren“ Herstellprozessen zu bewegen    – Vergleichsbasis ist stets der Branchenstandard und natürlich die Branche (das P/D) selbst.</p><p>Bei der absoluten    Wirkung (SI1) kann man ein „Pro-Kopf-Äquivalent“ heranziehen, um Unternehmen verschiedener Größe miteinander zu    vergleichen. SI2 und SI3 orientieren sich größenunabhängig am technischen (Branchen-)Standard.</p><p>Richtig ist,    dass Unternehmen in unterschiedlichen Branchen unterschiedlich „leicht“ zu GWÖ-Punkten kommen können, innerhalb    einer Branche sollte das jedoch Beachtung finden, ggf. müssen sich Auditoren abstimmen.</p><p>&nbsp;</p><p><strong>Abgrenzungen    zu anderen Indikatoren</strong></p><p><u>C3 Förderung ökologischen Verhaltens der MitarbeiterInnen</u></p><p>C3    betrifft das ökologische Verhalten der MitarbeiterInnen. Hierbei überschneiden sich das Mobilitätsverhalten für die    An- und Abreise zur Arbeitsstelle - eine Doppelbewertung sollte vermieden werden. Das ökologische Verhalten (z.B.    Ernährungsverhalten) der Mitarbeiter ist durch Weiterbildungsmaßnahmen in Richtung ökologischer Bewusstseinsbildung    beeinflussbar.</p><p><u>D3 Ökologische Gestaltung der Produkte und Dienstleistungen</u></p><p>D3 betrachtet die    jeweilige Produktebene im gesamten Lebenszyklus, während E3 das gesamte Unternehmen als Produktionsort betrachtet.    Hier gibt es Überschneidungen. Zudem ist das Quartett der Nachhaltigkeit auch Orientierungsschema für E3.</p><p><u>E1    gesellschaftliche Wirkung der Produkte/Dienstleistungen</u><u> </u></p><p>E1 bewertet hauptsächlich die Produktebene    und den gesamten Lebenszyklus im Branchenvergleich,&nbsp; berücksichtigt jedoch auch die Herstellmethoden – hier    gibt es Überschneidungen.</p><p><u>D5 Erhöhung der sozialen und ökologischen Branchenstandards</u></p><p>In E3 ist    nicht der Standard das Entwicklungsziel, sondern die Reduzierung von <br> Umweltwirkungen.</p>",
+	"definition": "<p>Sowohl auf globaler als auch regionaler Ebene haben gesellschaftliche Aktivitäten zur Störung und zum Teil zur    Degradation von Ökosystemen beigetragen.<a href=\"#_ftn2\" title=\"\" rel=\"nofollow\">[2]</a> Um dem nachhaltig    entgegenzuwirken, müssen Maßnahmen ergriffen werden, die eine Reduktion von Ressourcenverbrauch und Emissionen    (insbesondere Treibhausgase<a href=\"#_ftn3\" title=\"\" rel=\"nofollow\">[3]</a>) sowie eine Einschränkung der Nutzung    gefährlicher Substanzen, Technologien, Prozesse und Tätigkeiten zum Ziel haben.</p><p>Für eine Transformation vom    jetzigen Zustand zu einer ökologisch nachhaltigen Ökonomie ist deswegen jede Branche und jedes Unternehmen    gefordert, seine ökologischen Auswirkungen zu kennen und im Sinne des Gemeinwohls Verbesserungen zu realisieren.<a            href=\"#_ftn4\" title=\"\" rel=\"nofollow\">[4]</a></p><p>Schädigende Umweltwirkungen („Umweltverschmutzungen“)    sind z.B.: Gewässerverschmutzung, Luftverschmutzung, Bodenverschmutzung, Lichtverschmutzung, Akustische    Verschmutzung. Beispiele für umweltverschmutzende Stoffe sind: Chemikalien (allgemein), Schwermetale, Mineralstoffe    wie Asbest, Öl, Dünger und Pflanzenschutzmittel bei unsachgemäßer Anwendung, Abgase, Arzneimittel, Antibiotica …<a            href=\"#_ftn5\" title=\"\" rel=\"nofollow\">[5]</a>,<a href=\"#_ftn6\" title=\"\" rel=\"nofollow\">[6]</a></p>",
+	"bestPractices": "",
+	"implementationHelp": "<p>„You can’t manage what you don’t measure.” Zur Evaluierung und Reduktion der ökologischen Auswirkungen des    Unternehmens ist eine prozessorientierte Herangehensweise in Form eines an Größe und Branche angepassten    Umweltmanagementsystems sinnvoll. Hier kann auf etablierte Standards zurückgegriffen werden. Nachfolgend eine    Auflistung der wichtigsten Umweltmanagementsysteme:</p><ul>    <li><strong>ISO 14001:</strong> Information des ÖkoBusinessPlan Wien zu ISO14001 - <a            href=\"http://www.wien.gv.at/umweltschutz/oekobusiness/modul-iso.html\" class=\"external-link\" rel=\"nofollow\">http://www.wien.gv.at/umweltschutz/oekobusiness/modul-iso.html</a>    </li>    <li><strong>EMAS (eco-management and audit scheme)</strong></li></ul><p align=\"left\">Informationen des österreichischen Lebensministeriums zu EMAS <a        href=\"http://www.emas.gv.at/article/articleview/52454/1/16769\" class=\"external-link\" rel=\"nofollow\">http://www.emas.gv.at/article/articleview/52454/1/16769</a></p><p align=\"left\">Die Deutsche Webseite zu EMAS: <a href=\"http://www.emas.de/\" class=\"external-link\" rel=\"nofollow\">http://www.emas.de/</a></p><p align=\"left\">Die EMAS-Richtlinie (enthält ISO 14001:2004):&nbsp; <a        href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:342:0001:0001:EN:PDF\"        class=\"external-link\" rel=\"nofollow\">http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:342:0001:0001:EN:PDF</a></p><ul>    <li><strong>easyEMAS</strong>: ein auf die Bedürfnisse von KMUs zugeschnittenes, an EMAS orientiertes        Umweltmanagement: <a href=\"http://www.emaseasy.eu/\" class=\"external-link\" rel=\"nofollow\">www.emaseasy.eu</a>    </li></ul><p>Für EPUs und Kleinstunternehmen ohne wesentliche Produktionsprozesse (z.B.: Beratungsunternehmen) ist der    Informationsbedarf geringer ausgeprägt, für eine Beurteilung sollten zumindest quantitative Angaben zum    Energieverbrauch (Strom, Gas), Mobilitätsaufwand (ungefähre km, Verkehrsmittel), Ressourcenverbrauch (siehe E1)    herangezogen werden.</p><p>&nbsp;</p><p align=\"left\">Nachfolgend einige HintergrundiInformationen zu wesentlichen    Standards</p><p align=\"left\"><strong>Beste Verfügbare Technik</strong> (Best Available Technology): EU BAT - <a        href=\"http://eippcb.jrc.es/reference/\" class=\"external-link\" rel=\"nofollow\">http://eippcb.jrc.es/reference/</a>&nbsp;    <a href=\"http://www.bvt.umweltbundesamt.de/\" class=\"external-link\"       rel=\"nofollow\">http://www.bvt.umweltbundesamt.de/</a></p><p align=\"left\"><strong>CO<sub>2</sub>-Rechner:</strong>Tools zur Berechnung betrieblicher CO<sub>2</sub> Emissionen <a        href=\"http://www.izu.bayern.de/praxis/detail_praxis.php?pid=0203010100217\" class=\"external-link\" rel=\"nofollow\">http://www.izu.bayern.de/praxis/detail_praxis.php?pid=0203010100217</a></p><p align=\"left\"><strong>Öko-Business-Plan der Stadt Wien:</strong> <a        href=\"http://www.wien.gv.at/umweltschutz/oekobusiness/\" class=\"external-link\" rel=\"nofollow\">http://www.wien.gv.at/umweltschutz/oekobusiness/</a></p><p align=\"left\"><a href=\"http://www.umweltbundesamt.at/umweltsituation/abfall/vermeidung/\" class=\"external-link\"                       rel=\"nofollow\">Abfallvermeidung</a> (<a href=\"http://www.umweltbundesamt.at\"                                                               class=\"external-link\" rel=\"nofollow\">www.umweltbundesamt.at</a>)</p>",
+	"moreinfo": "<p><strong>ökologischer Fußabdruck: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p><ul>    <li>ARTE: <a href=\"http://www.youtube.com/watch?v=uK9vv-0-iPE\" class=\"external-link\" rel=\"nofollow\">Mit offenen        Karten – der ökologische Fußabdruck</a></li>    <li><a href=\"http://www.footprint.at/fileadmin/zf/dokumente/footprint_brosch_v3LM.pdf\" class=\"external-link\"           rel=\"nofollow\">Broschüre zum Ökologischen Footprint</a></li>    <li><a href=\"http://www.footprint.at/index.php?id=rechner\" class=\"external-link\" rel=\"nofollow\">verschiedene meist        private Footprint-Rechner für Österreich</a> (für EPUs)    </li></ul><p>&nbsp;</p><p><strong>Webseiten zu Wasseräquivalenten</strong></p><ul>    <li><a href=\"http://www.wasserfussabdruck.org/?page=files/home\" class=\"external-link\" rel=\"nofollow\">http://www.wasserfussabdruck.org/?page=files/home</a>    </li>    <li><a href=\"http://www.waterfootprint.org/?page=files/home\" class=\"external-link\" rel=\"nofollow\">http://www.waterfootprint.org/?page=files/home</a>    </li></ul><p>&nbsp;</p><p><strong>Redakteur: Lutz Knakrügge, <a href=\"mailto:lutz@mail.pcom.de\" class=\"external-link\"                                                           rel=\"nofollow\">lutz@mail.pcom.de</a>, Vorarbeit: Christian    Loy, Mitarbeit: Christian Rüther</strong></p>",
+	"footnotes": ""
+}

@@ -1,0 +1,173 @@
+{
+	"shortcode": "C3",
+	"shortcodeSlug": "c3",
+	"name": "Forderung und Förderung ökologischen Verhaltens der MitarbeiterInnen",
+	"points": 30,
+	"soleProprietorship": true,
+	"goals": "Zielsetzung eines gemeinwohlorientierten Unternehmens ist es, das ökologische Bewusstsein zu forcieren bzw. ökologisches Verhalten innerhalb des Betriebes zu ermöglichen, u.a. Rahmenbedingungen zu schaffen, Vorbilder zu finden, Projekte auszuloben etc. Zu wesentlichen ökologischen Aspekten werden aktiv Maßnahmen gesetzt, Unternehmenskultur und interne Prozesse tragen zu einer tatsächlichen Umsetzung bei.",
+	"impulsQuestions": "<p><strong>Ernährung während der Arbeitszeit</strong></p><ul><li>Welchen Wert legen Mitarbeiter auf die ökologisch-regionale Herkunft ihrer Lebensmittel am Arbeitsplatz und wie sieht das in der tatsächlichen Ausgestaltung aus?</li><li>Welche Angebote gibt es (wenn vorhanden) in der Kantine/Küche (Kochmöglichkeit)/Belieferung (Catering z.B. direkt vom Bauernhof)?</li></ul><p><strong>Mobilität zum Arbeitsplatz</strong></p><ul><li>Welche Verkehrsmittel benützen Mitarbeiter um zu ihrem Arbeitsplatz zu gelangen?</li><li>Welche Möglichkeiten gibt es für Mitarbeiter, ihren Arbeitsweg umweltschonender zurückzulegen?</li><li>Welche Anreize für umweltbewussteres Mobilitätsverhalten stellt das Unternehmen bereit?</li></ul><p><strong>Organisationskultur, Sensibilisierung und unternehmerische Prozesse </strong></p><ul><li>Inwieweit spielen ökologische Aspekte in Weiterbildungsangeboten eine Rolle?</li><li>Welche Sensibilisierungshandlungen finden innerhalb dieses Rahmens statt?</li><li>Welche Strategie verfolgt das Unternehmen im Hinblick auf das ökologische Verhalten der Mitarbeiter?</li></ul>",
+	"table": {
+		"subindicators": [
+			{
+				"title": "Ernährung während der Arbeitszeit",
+				"relevance": "high",
+				"position": "1",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "Erste Ansätze zur Förderung nachhaltiger Ernährungsmuster (z.B.: Angebot einer vegetarischen Option bzw. Vergünstigungen in biologischen Restaurants)"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "Klares Bekenntnis im Unternehmen zu nachhaltigen Ernährungsgewohnheiten (deutlich reduzierter Konsum tierischer Produkte in der Betriebskantine)"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "Ernährung mehrheitlich vegetarisch/vegan<br/><br/>+ Lebensmittel vorwiegend lokal, saisonal und biologisch zertifiziert<br/><br/>+ Fleisch aus lokaler Weidehaltung"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "Ernährung überwiegend vegetarisch/vegan<br/><br/>+ Lebensmittel vorwiegend lokal, saisonal, biologisch zertifiziert, wenn möglich aus Community Supported Agriculture (CSA)<br/><br/>+ Fleisch aus lokaler Weidehaltung"
+							}
+						]
+					}
+				],
+				"keyFigures": [
+					"<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">",
+					"<thead><tr>",
+					"<th scope=\"col\"></th>",
+					"<th scope=\"col\">Teilweise vege-tarisch/vegan</th>",
+					"<th scope=\"col\">Mehrheitlich veget./vegan</th>",
+					"<th scope=\"col\">Überwiegend veget./vegan</th>",
+					"<th scope=\"col\">Bio-Anteil(in%)</th>",
+					"</tr></thead>",
+					"<tbody><tr>",
+					"<td>Angebote im Unternehmen(% uale Verteilg)</td>",
+					"<td></td>",
+					"<td></td>",
+					"<td></td>",
+					"<td></td></tr><tr>",
+					"<td>Tatsächliches Verhalten der MA (% uale Verteilung)</td>",
+					"<td>&nbsp;</td>",
+					"<td>&nbsp;</td>",
+					"<td>&nbsp;</td>",
+					"<td>&nbsp;</td></tr></tbody></table>"
+				]
+			},
+			{
+				"title": "Mobilität zum Arbeitsplatz",
+				"relevance": "high",
+				"position": "2",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "Erste Ansätze einer nachhaltigen Mobilitätspolitik (z.B.: finanzielle Anreizsysteme für die Benutzung ÖPNV; festgeschriebene Dienstwagenpolitik: <130 g CO²/km, Trainings für treibstoffsparendes Fahren)"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "Konsequente nachhaltige Mobilitätspolitik: (z.B.: wenn keine ÖPNV verfügbar: aktives Car-Sharing-Angebot; Mitarbeiter-Parkplätze nur für Car Sharing, Erreichbarkeit bei Standortwahl wesentliches Entscheidungskriterium, Bereitstellung von Dienstfahrrädern), Partizipation bei externen Fahrradinitiativen<a href=\"#_edn1\" rel=\"nofollow\">[i]</a>"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "Durch betriebsinterne Anreizpolitik benutzt die Mehrheit der MitarbeiterInnen ÖPNV/Bus/Zug/Rad/Car Sharing, Teleworking optional"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "Durch betriebsinterne Anreizpolitik benutzen nahezu alle MitarbeiterInnen ÖPNV/ Rad/Car Sharing oder Teleworking optional"
+							}
+						]
+					}
+				],
+				"keyFigures": [
+					"<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">",
+					"<thead><tr>",
+					"<th scope=\"col\"></th>",
+					"<th scope=\"col\">Gesamt KM für das Unternehmen</th>",
+					"<th scope=\"col\">Durchschnittlich pro MA</th>",
+					"</tr></thead>",
+					"<tbody>",
+					"<tr><td>Flugreisen</td>",
+					"<td></td>",
+					"<td></td></tr>",
+					"<tr><td>Auto/ PKW einzeln</td>",
+					"<td></td>",
+					"<td></td></tr>",
+					"<tr><td>Car-Sharing</td>",
+					"<td></td>",
+					"<td></td></tr>",
+					"<tr><td>ÖPNV</td>",
+					"<td></td>",
+					"<td></td></tr>",
+					"<tr><td>Fahrrad/ Fuß</td>",
+					"<td></td>",
+					"<td></td></tr>",
+					"</tbody></table>"
+				]
+			},
+			{
+				"title": "Organisationskultur, Sensibilisierung und unternehmensinterne Prozesse",
+				"relevance": "middle",
+				"position": "3",
+				"soleProprietorship": true,
+				"developmentTracks": [
+					{
+						"developmentDetails": [
+							{
+								"levels": [
+									"beginner"
+								],
+								"description": "Punktuelle Thematisierung ökologischer Aspekte (z.B.: Newsletter etc.)<br/><br/>Geschäftsführung lebt ökologisches Verhalten vor (z.B.: kein prestigeträchtiger Dienstwagen bzw. Ausnahmeregelungen wie z.B häufige Flugreisen)"
+							},
+							{
+								"levels": [
+									"advanced"
+								],
+								"description": "Punktuelle Integration ökologischer Aspekte in Weiterbildungsprogramme<br/><br/>Mitarbeiter werden in ökologische Belange einbezogen (regelmäßige Thematisierung, Info-Veranstaltungen Hinweisschilder in Büroräumlichkeiten  etc.)"
+							},
+							{
+								"levels": [
+									"experienced"
+								],
+								"description": "Regelmäßige Integration ökologischer Aspekte in Weiterbildungsprogramme<br/><br/>Mitarbeiter werden regelmäßig in ökol. Entscheidungsprozesse einbezogen (z.B.: ökologisches Vorschlagswesen, Budgettopf für externe ökologische Projekte)"
+							},
+							{
+								"levels": [
+									"model"
+								],
+								"description": "Institutionalisierte Awarenessprogramme für jeden Mitarbeiter (z.B.: regelmäßige Erhebung zum/Thematisierung des ökologischen Verhaltens; Footprint-Workshops), Innovative Ansätze: z.B.: „grüne Sozialleistungen“"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"details": "<p><strong style=\"font-size: 10.0pt;line-height: 13.0pt;\">Unternehmensgröße:</strong></p><ul>    <li><strong>Unternehmensgröße:</strong> Während bei KleinstunternehmerInnen durchaus der individuelle Lebensstil        integriert werden kann, steigt mit zunehmender Größe des Unternehmen die institutionelle Einflussmöglichkeit des        Management, z.B. durch eine vorhandene Kantine oder die Möglichkeit eines Shuttle-Busses. <strong>            &nbsp;</strong></li>    <li><strong>Regionale Risiken:</strong> Das Stadt/Landgefälle muss berücksichtigt werden, da Unternehmen im urbanen        Raum durch öffentliche Infrastruktur (ÖPNV) tendenziell über bessere Ausgangsmöglichkeiten verfügen. Kreativität        bei der &nbsp;Gestaltung umweltschonender Mobilität (z.B. Forcieren von Fahrgemeinschaften, Ladestationen für        E-Bikes mit Ökostrom) sollte bei Firmen im ländlichen Gebiet besonders berücksichtigt werden.    </li></ul><p><strong style=\"font-size: 10.0pt;line-height: 13.0pt;\">Abgrenzungen zu anderen Indikatoren</strong></p><p>Es    besteht eine Überschneidung mit Punkt C1/Physische Gesundheit und Sicherheit, ergo verstärkte Aufmerksamkeit auf    Mobilität und Ernährung wirkt sich tendenziell positiv auf die physische Gesundheit der Mitarbeiter aus.</p><p>    Betriebsinterne Mobilität (Geschäftsreisen) wird unter E3 behandelt.</p><p>&nbsp;</p><h5        id=\"C3ForderungundFörderungökologischenVerhaltensderMitarbeiterInnenMatrix41-FAQ\">FAQ</h5><p><strong>Ein    Eingriff in die Ernährung des Einzelnen stellt einen massiven Übergriff in puncto individueller Privatsphäre    dar! </strong></p><p align=\"left\">Essen ist Privatsache. Niemand lässt sich gerne vorschreiben, was und wie viel sie    oder er wovon verspeisen darf. Auch nicht beim Fleisch. Da vielleicht am allerwenigsten. Aber ist Essen tatsächlich    eine rein private Angelegenheit?<a href=\"#_ftn1\" title=\"\" rel=\"nofollow\">[1]</a></p><p align=\"left\">Der    Jahresverbrauch des Durchschnittsösterreichers an Fleisch stieg von ca. 25 kg im Jahr 1950 auf fast 67 kg Fleisch<a            href=\"#_ftn2\" title=\"\" rel=\"nofollow\">[2]</a>, während der Fleischverbrauch eines Bewohners eines    Entwicklungslandes durchschnittlich 32,7 kg Fleisch beträgt.<a href=\"#_ftn3\" title=\"\" rel=\"nofollow\">[3]</a> Auch    heute noch wird auf die regionale Herkunft von Fleisch und anderen tierischen Produkten Wert gelegt, wobei jedoch    vergessen wird, dass die Fläche Österreichs nicht mehr ausreicht, um den immensen Futtermittelbedarf für die    Nutztierhaltung decken zu können.</p><p align=\"left\">Die industrielle Massentierhaltung hat sich (im Gegensatz zu    konsequenter Weidehaltung) weitgehend von der unmittelbar verfügbaren Fläche eines Landes entkoppelt, Futtermittel    werden großteils am Weltmarkt zugekauft. Laut der FAO werden bereits 40 % der Getreideproduktion sowie ⅓ der    verfügbaren Landfläche für die Produktion von tierischen Proteinen aufgewendet.<a href=\"#_ftn4\" title=\"\"                                                                                      rel=\"nofollow\">[4]</a></p><p        align=\"left\">Weitere Informationen finden Sie unter I) Exkurs.</p><p align=\"left\">&nbsp;</p><p><strong>Was ist    der ökologische Fußabdruck? </strong></p><p>Der ökologische Fußabdruck gibt an, wie viel Hektar an Globalfläche    jeder Mensch durch sein tägliches Handeln (Wohnen, Mobilität, Essen, Konsumverhalten) verbraucht.</p><p>Obwohl nur    theoretischer Natur und sehr komplex in der Datenerhebung gilt der ökologische Fußabdruck als ein leicht    verständliches Instrument, um Routinen neu zu überdenken und in eine ökologisch schonendere Herangehensweise zu    verändern. Je größer der Fußabdruck, desto intensiver wird die Umwelt belastet.</p><p>„Die Fläche des Fußabdrucks    wird in ‚globalen Hektar‘ (gha) angegeben. Das globale Hektar ist ein Maß, das die unterschiedliche Fruchtbarkeit    von Böden und ihre Fähigkeit, Rohstoffe auf- und Schadstoffe abzubauen, berücksichtigt. Das globale Hektar ist also    ein Durchschnittswert, der aus der unterschiedlichen ‚Biokapazität‘ von Böden errechnet wird. So ist es möglich, den    Umweltverbrauch verschiedener Länder bzw. deren Einwohner miteinander zu vergleichen.“<a href=\"#_ftn5\" title=\"\"                                                                                             rel=\"nofollow\">[5]</a></p><p>Der durchschnittliche Österreicher beansprucht momentan 4,9 Global Hektar, während der indische Mitmensch 0,8 Global    Hektar zur Verfügung hat. Tragbar, zukunftsfähig und fair wären 1,8 Global Hektar für jeden Weltenbürger.</p><p>    Durch die Vielzahl an Footprintrechnern kommt es häufig zu Verzerrungen. Footprintrechner sollten mit den    internationalen Ecological Footprint Standards von 2006 abgestimmt sein. Dies lässt sich vor allem durch die    Transparenz der Methodologie sowie auch durch das Sicherstellen, dass der Rechner von einem <a        href=\"http://www.footprintnetwork.org/gfn_sub.php?content=our_partners\" class=\"external-link\" rel=\"nofollow\">Global    Footprint Network Partner</a> erstellt wurde, gewährleisten.<a href=\"#_ftn6\" title=\"\" rel=\"nofollow\">[6]</a></p>",
+	"definition": "<p>Die Beurteilung des Indikators erfolgt hinsichtlich mehrerer Aspekte. Neben spezifischen Themenfeldern, welche durch    einen hohen ökologischen Einfluss gekennzeichnet sind (Ernährung am Arbeitsplatz; Wegstrecke zum Arbeitsplatz) soll    auch der Umgang und die Integration auf Organisationsebene (Weiterbildung &amp; Awareness, Organisationskultur)    beurteilt werden.</p><ul>    <li><strong>Ernährung während der Arbeitszeit</strong>: Etwa ein Drittel des durchschnittlichen ökologischen        Fußabdruckes ist auf Nahrungsmittel zurückzuführen.<a href=\"#_ftn7\" title=\"\" rel=\"nofollow\">[7]</a> Eine        ökologische Wende ohne Veränderung der Ernährungsgewohnheiten ist äußerst unwahrscheinlich. Auch wenn keine        Betriebsküche vorhanden ist, können positive Anreizfaktoren gesetzt werden (z.B. Kooperation mit        bio-vegetarischen Lokalen oder lokalen Reformhäusern etc.). Dies wirkt sich positiv im Sinne einer betrieblichen        Gesundheitsvorsorge aus.    </li>    <li><strong>Mobilität zum/am Arbeitsplatz</strong>: Rund ein Fünftel des ökologischen Fußabdruckes ist dem        Personenverkehr zuzuordnen, wovon mehr als 90&nbsp;% auf Flugverkehr und Auto fallen. Die Mobilität zum        Arbeitsplatz stellt einen Einflussfaktor zur Reduktion der hieraus entstandenen Emissionen dar. Je nach        Rahmenbedingungen (Produktionsstandort am Stadtrand, Büro im urbanen Zentrum, abgelegener Standort etc.)        bestehen unterschiedlichste Möglichkeiten, Anreizfaktoren zu setzen bzw. sanfte Mobilität zu forcieren        (ÖPNV-Tickets, Substitution durch Infotechnik, Teleworking, Werklinienverkehr, Begünstigung von        Fahrgemeinschaften, Bereitstellung von Dienstfahrrädern und überdachten, geschützten Fahrradparkplätzen,        Vermeidung von Dienstwägen etc.).    </li>    <li><strong>Organisationskultur, Sensibilisierung und unternehmensinterne Prozesse</strong>: Dies kann auf        unterschiedlichsten Ebenen erfolgen und lässt großen Freiraum für Kreativität und Innovationsfähigkeit: z.B.        Integration ökologischer Aspekte in das betriebliche Vorschlagswesen, Budgettopf für externe ökologische        Projekt(vorschläge) der MitarbeiterInnen, „grüne Sozialleistungen“ (z.B. finanzielle Unterstützung privater        Aktivitäten – Wärmedämmung, Eigenheim statt Dienstwagen). Für eine Umsetzung im Unternehmen ist die Bereitschaft        der MitarbeiterInnen von entscheidender Bedeutung. Bewusstsein für und Kenntnisse von ökologischen Auswirkungen        gilt es durch gezielte Maßnahmen zu fördern, u.a. Integration ökologischer Aspekte in die Weiterbildung,        Footprint-Workshops für Mitarbeiter. Während größere Unternehmen v.a. bei Ernährung und Mobilität durch einen        höheren Ausdifferenzierungsgrad (z.B. Kantine, Shuttle-Busse) höhere Einflussnahme verzeichnen können, ist        dieser Punkt für Unternehmen größenunabhängig gleichwertig zugänglich.    </li></ul>",
+	"bestPractices": "<strong>Swiss Re:</strong> „The COYou2 Reduce and Gain Programme“ als Beispiel für grüne Sozialleistungen <a href=\"http://www.swissre.com/corporate_responsibility/coyou2_programme.html\" class=\"external-link\" rel=\"nofollow\">http://www.swissre.com/corporate_responsibility/coyou2_programme.html</a>",
+	"implementationHelp": "<p> Nachfolgend finden Sie Hintergrundinfos zu betriebsökologischen Themen:</p><p>&nbsp;— <strong>Plattform    Footprint:</strong> Vielfältigste Informationen rund um den ökologischen Fußabdruck <a        href=\"http://www.footprint.at/\" class=\"external-link\" rel=\"nofollow\">http://www.footprint.at/</a></p><p>&nbsp;—    <strong>Fairmove</strong>: U.a. ist eine Übersicht über den CO<sub>2</sub>-Ausstoß aller Verkehrsmittel zu finden.    Folgende Angaben sind pro Personenkilometer mit Besetzungsgrad 1,17 (bei Pkw). Wenn die Person immer alleine fährt,    wird der Wert entsprechend höher, wenn immer zu zweit, entsprechend niedriger.<a href=\"#_ftn8\" title=\"\"                                                                                     rel=\"nofollow\">[8]</a> <a            href=\"http://www.fairmove.at\" class=\"external-link\" rel=\"nofollow\">www.fairmove.at</a></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><div class=\"table-wrap\">    <table class=\"confluenceTable\">        <tbody>        <tr>            <td class=\"confluenceTd\"><p><strong>Verkehrsmittel </strong></p></td>            <td class=\"confluenceTd\"><p><strong>gCO<sub>2</sub>/pkm (Personenkilometer)</strong><a href=\"#_ftn9\"                                                                                                   title=\"\"                                                                                                   rel=\"nofollow\"><strong><strong>[9]</strong></strong></a>            </p></td>        </tr>        <tr>            <td class=\"confluenceTd\"><p>PKW</p></td>            <td class=\"confluenceTd\"><p>208,4</p></td>        </tr>        <tr>            <td class=\"confluenceTd\"><p>Motorrad</p></td>            <td class=\"confluenceTd\"><p>187,7</p></td>        </tr>        <tr>            <td class=\"confluenceTd\"><p>Mofa</p></td>            <td class=\"confluenceTd\"><p>79,8</p></td>        </tr>        <tr>            <td class=\"confluenceTd\"><p>Bahn (Ö.)</p></td>            <td class=\"confluenceTd\"><p>23,9</p></td>        </tr>        <tr>            <td class=\"confluenceTd\"><p>ÖV</p></td>            <td class=\"confluenceTd\"><p>etwa 40</p></td>        </tr>        <tr>            <td class=\"confluenceTd\"><p>E-Pkw</p></td>            <td class=\"confluenceTd\"><p>118</p></td>        </tr>        <tr>            <td class=\"confluenceTd\"><p>E-Pkw mit Ökostrom</p></td>            <td class=\"confluenceTd\"><p>60,4</p></td>        </tr>        </tbody>    </table></div>",
+	"moreinfo": "<p>&nbsp;— <strong>Nachhaltig handeln im beruflichen und privaten Alltag: </strong>Leitfaden für Unternehmen des    Institutes für sozial-ökologische Forschung: <a            href=\"http://www.isoe.de/fileadmin/redaktion/Downloads/Corporate_Sustainability/naha-handbuch-2011.pdf\"            class=\"external-link\" rel=\"nofollow\">http://www.isoe.de/fileadmin/redaktion/Downloads/Corporate_Sustainability/naha-handbuch-2011.pdf</a></p><p>— <strong>Mobitool:</strong> Schweizer Plattform zur nachhaltigen Mobilität in Unternehmen inkl. Tools zur    Berechnung vom mobilitätsbezogenen Emissionen: <a href=\"http://www.mobitool.ch\" class=\"external-link\"                                                      rel=\"nofollow\">http://www.mobitool.ch</a></p><p>—    <strong>Mimona: </strong>Mitarbeitermotivation zu Nachhaltigkeit (Datenbank mit Praxisbeispielen) - <a            href=\"http://www.mimona.de\" class=\"external-link\" rel=\"nofollow\">http://www.mimona.de</a></p><p>— <strong>Mitarbeitermotivation    für umweltbewusstes Verhalten:</strong> Ein Leitfaden für Umweltbeauftragte in Unternehmen des Bayrischen    Landesamtes für Umwelt: <a            href=\"http://www.bestellen.bayern.de/application/applstarter?APPL=STMUG&amp;DIR=stmug&amp;ACTIONxSETVAL%28index.htm,APGxNODENR:16564,USERxBODYURL:artdtl.htm,AARTxNR:lfu_agd_00058%29=X\"            class=\"external-link\" rel=\"nofollow\">http://www.bestellen.bayern.de/application/applstarter?APPL=STMUG&amp;DIR=stmug&amp;ACTIONxSETVAL%28index.htm,APGxNODENR:16564,USERxBODYURL:artdtl.htm,AARTxNR:lfu_agd_00058%29=X</a></p>Redakteurin: Julia Grosinger, <a href=\"mailto:julia_gros@yahoo.de\" class=\"external-link\" rel=\"nofollow\">julia_gros@yahoo.de</a>",
+	"footnotes": "<div><p align=\"left\"><a href=\"#_ftnref1\" title=\"\" rel=\"nofollow\">[1]</a> Erklärung von Bern (2010), Fleisch – Weniger ist mehr, <a href=\"http://www.evb.ch/cm_data/2010_2_Doku-Fleisch_def.pdf\" class=\"external-link\" rel=\"nofollow\">http://www.evb.ch/cm_data/2010_2_Doku-Fleisch_def.pdf</a></p></div><div><p align=\"left\"><a href=\"#_ftnref2\" title=\"\" rel=\"nofollow\">[2]</a> <a href=\"http://www.nutrititionecology.org\" class=\"external-link\" rel=\"nofollow\">www.nutrititionecology.org</a></p></div><div><p align=\"left\"><a href=\"#_ftnref3\" title=\"\" rel=\"nofollow\">[3]</a> Bund für Umwelt- und Naturschutz, Le Monde diplomatique (2013), Fleischatlas – Daten und Fakten über Tiere als Nahrungsmittel, <a href=\"http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/\" class=\"external-link\" rel=\"nofollow\">www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/</a> 130108_bund_landwirtschaft_fleischatlas.pdf</p></div><div><p align=\"left\"><a href=\"#_ftnref4\" title=\"\" rel=\"nofollow\">[4]</a> FAO (2006), Livestock’s Long Shadow, <a href=\"http://www.fao.org/docrep/010/a0701e/a0701e00.HTM\" class=\"external-link\" rel=\"nofollow\">http://www.fao.org/docrep/010/a0701e/a0701e00.HTM</a></p></div><div><p align=\"left\"><a href=\"#_ftnref5\" title=\"\" rel=\"nofollow\">[5]</a> <a href=\"http://www.footprintrechner.at/footprint/faq\" class=\"external-link\" rel=\"nofollow\">http://www.footprintrechner.at/footprint/faq</a></p></div><div><p><a href=\"#_ftnref6\" title=\"\" rel=\"nofollow\">[6]</a> <a href=\"http://www.footprintnetwork.org\" class=\"external-link\" rel=\"nofollow\">http://www.footprintnetwork.org</a></p></div><div><p align=\"left\"><a href=\"#_ftnref7\" title=\"\" rel=\"nofollow\">[7]</a> Eine vegetarische Ernährung (3 x wöchentlich Milch und Milchprodukte) hat im Vergleich zu derzeitigen Ernährungsgewohnheiten (5 x wöchentlich Fleisch, Milch und Milchprodukte) einen um ⅔ niedrigeren ökologischen Fußabdruck, eine vegane Ernährung in etwa um ¾.</p><p>&nbsp;</p></div><div><p><a href=\"#_ftnref8\" title=\"\" rel=\"nofollow\">[8]</a> Die Emissionen beinhalten Fahrzeug-, Kraftstoff-, Stromherstellung, direkte Emissionen, Entsorgung und Infrastruktur und beziehen sich auf Durchschnittsfahrzeuge.</p><p><a href=\"#_ftnref8\" title=\"\" rel=\"nofollow\">[9]</a>&nbsp;<a href=\"http://www.fairmove.at\" class=\"external-link\" rel=\"nofollow\">www.fairmove.at</a></p></div><div><p>&nbsp;</p></div><div><p><a href=\"#_ftnref10\" title=\"\" rel=\"nofollow\">[10]</a> Von Witzke, Harald; Noleppa, Stefan; Zhirkova, Inga (2011), Fleisch frisst Land, WWF, <a href=\"http://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/WWF_Fleischkonsum_web.pdf\" class=\"external-link\" rel=\"nofollow\">http://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/WWF_Fleischkonsum_web.pdf</a></p></div><div><p><a href=\"#_ftnref11\" title=\"\" rel=\"nofollow\">[11]</a> <a href=\"http://www.cdc.gov/nceh/ehs/docs/understanding_cafos_nalboh.pdf\" class=\"external-link\" rel=\"nofollow\">http://www.cdc.gov/nceh/ehs/docs/understanding_cafos_nalboh.pdf</a></p></div>"
+}
