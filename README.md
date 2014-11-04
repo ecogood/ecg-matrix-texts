@@ -1,4 +1,4 @@
-ecg-matrix-texts [![Build Status][travis-image]][travis-url] [![NPM version][npm-image]][npm-url]
+ecg-matrix-texts [![Build Status][travis-image]][travis-url]
 ================
 
 This package contains the texts for the ECG Matrix and tests to validate their proper structure.
@@ -46,5 +46,3 @@ Share issues and desired features [in GitHub](https://github.com/ecogood/ecg-qui
 
 [travis-image]: https://travis-ci.org/ecogood/ecg-matrix-texts.svg?branch=master
 [travis-url]: https://travis-ci.org/ecogood/ecg-matrix-texts
-[npm-url]:  https://npmjs.org/package/ecg-matrix-texts
-[npm-image]: http://img.shields.io/npm/v/ecg-matrix-texts.svg?style=flat
