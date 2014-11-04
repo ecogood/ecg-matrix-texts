@@ -13,7 +13,7 @@ In development mode, run ``grunt dev``.
 
 ## Roadmap
 
-* :arrow_right: add English translation.
+* add English translation.
 * add Spanish translation.
 
 ## Contributing
