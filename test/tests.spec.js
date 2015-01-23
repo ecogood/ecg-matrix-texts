@@ -2,19 +2,20 @@
 var expect = require('chai').expect;
 var fs = require('fs');
 
+var indicatorsShortCodes = [
+  'a1', 'b1', 'c1', 'c2', 'c3', 'c4', 'c5', 'd1', 'd2', 'd3', 'd4', 'd5',
+  'e1', 'e2', 'e3', 'e4', 'e5', 'n1', 'n2', 'n3', 'n4', 'n5', 'n6', 'n7',
+  'n8', 'n9', 'n10', 'n11', 'n12', 'n13', 'n14', 'n15', 'n16', 'n17'
+];
+
 /* jshint -W030 */
 describe('All indicators', function() {
 
   var indicators = [];
-  var indicatorsShortCodes = [
-    'a1', 'b1', 'c1', 'c2', 'c3', 'c4', 'c5', 'd1', 'd2', 'd3', 'd4', 'd5',
-    'e1', 'e2', 'e3', 'e4', 'e5', 'n1', 'n2', 'n3', 'n4', 'n5', 'n6', 'n7',
-    'n8', 'n9', 'n10', 'n11', 'n12', 'n13', 'n14', 'n15', 'n16', 'n17'
-  ];
   var lastIndicator = null;
 
   before(function() {
-    var path = 'lib/4.1/de/';
+    var path = 'lib/4.1/de/indicators/';
     var fileNames = fs.readdirSync(path);
     fileNames.forEach(function(fileName) {
       var fileContents = fs.readFileSync(path + fileName);
@@ -70,12 +71,28 @@ describe('All indicators', function() {
   });
 
 
-
-
-
   after(function() {
     // if there was an error, this message will show the indicator with the error
-    console.log('lastIndicator = ' + lastIndicator);
+//    console.log('lastIndicator = ' + lastIndicator);
   });
+
+});
+
+describe('Indicator Bundle', function() {
+
+  var indicatorBundle;
+
+  before(function() {
+    var path = 'lib/4.1/de/ecg-indicators.json';
+    indicatorBundle = JSON.parse(fs.readFileSync(path));
+  });
+
+  it('should contain all indicators', function() {
+
+    indicatorsShortCodes.forEach(function(indicatorShortCode) {
+      expect(indicatorBundle[indicatorShortCode]).to.exist;
+    });
+  });
+
 
 });
