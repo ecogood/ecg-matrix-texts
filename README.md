@@ -41,6 +41,7 @@ Share issues and desired features [in GitHub](https://github.com/ecogood/ecg-qui
 
 ## Release History
 
+* 0.1.1 - add JS version of the JSON bundle. 
 * 0.1.0 - moved the individual indicators into the ``indicators`` folder (breaking change) and created ecg-indicators json bundle. 
 * 0.0.1 - first version with german texts and initial tests.
 

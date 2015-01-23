@@ -1,5 +1,9 @@
 'use strict';
 
+var json2js = require('json2js');
+var fs = require('fs');
+
+
 module.exports = function(grunt) {
 
   // Load grunt tasks automatically
@@ -26,7 +30,7 @@ module.exports = function(grunt) {
     watch: {
       indicators: {
         files: ['<%= dir.srcDe %>/**/*'],
-        tasks: ['json_bake', 'test']
+        tasks: ['json_bake', 'json2js', 'test']
       },
       test: {
         files: ['test/**/*'],
@@ -37,7 +41,9 @@ module.exports = function(grunt) {
     /* jshint camelcase:false */
     json_bake: {
       a1: {
-        options: {},
+        options: {
+          indentation: '  '
+        },
         files: {
           '<%= dir.libDeIndicators %>/a1.json': '<%= dir.srcDeIndicators %>/a1/_a1-base.json'
         }
@@ -274,11 +280,23 @@ module.exports = function(grunt) {
 
   });
 
+  grunt.task.registerTask('json2js', 'Convert JSON bundles to JS modules', function() {
+    var json = fs.readFileSync('./lib/4.1/de/ecg-indicators.json', 'utf8');
+    var js = json2js.convert(json);
+    fs.writeFile('./lib/4.1/de/ecg-indicators.js', js, function(err) {
+      if (err) {
+        throw err;
+      }
+      console.log('JS version of the JSON file created.');
+    });
+  });
+
   // By default, build templates using helpers and run all tests.
   grunt.registerTask('validate', ['jshint:all']);
   grunt.registerTask('test', ['simplemocha']);
   grunt.registerTask('dev', [
     'json_bake',
+    'json2js',
     'watch'
   ]);
 };
